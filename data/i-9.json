@@ -1,0 +1,206 @@
+{
+  "slug": "i-9",
+  "form": "I-9",
+  "issuer": "U.S. Citizenship and Immigration Services (USCIS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.uscis.gov/i-9",
+  "edition": "Edition 01/20/25",
+  "lastChecked": "2026-10-16",
+  "summary": "Form I-9, “Employment Eligibility Verification”, is the form every new U.S. employee completes with their employer to show who they are and that they may work in the United States. You fill in Section 1 yourself, then show your employer original documents, and the employer completes Section 2.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/i-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "section1",
+      "name": "Section 1: Employee information",
+      "fields": [
+        {
+          "ref": "Section 1",
+          "label": "Last Name (Family Name)"
+        },
+        {
+          "ref": "Section 1",
+          "label": "First Name (Given Name) / Middle Initial (if any)"
+        },
+        {
+          "ref": "Section 1",
+          "label": "Other Last Names Used (if any)"
+        },
+        {
+          "ref": "Section 1",
+          "label": "Address (Street Number and Name) / Apt. Number (if any)"
+        },
+        {
+          "ref": "Section 1",
+          "label": "City or Town / State / ZIP Code"
+        },
+        {
+          "ref": "Section 1",
+          "label": "Date of Birth (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Section 1",
+          "label": "U.S. Social Security Number"
+        },
+        {
+          "ref": "Section 1",
+          "label": "Employee's Email Address / Employee's Telephone Number"
+        }
+      ]
+    },
+    {
+      "id": "status",
+      "name": "Section 1: Citizenship or immigration status and signature",
+      "fields": [
+        {
+          "ref": "Box 1",
+          "label": "1. A citizen of the United States"
+        },
+        {
+          "ref": "Box 2",
+          "label": "2. A noncitizen national of the United States (See Instructions.)"
+        },
+        {
+          "ref": "Box 3",
+          "label": "3. A lawful permanent resident (Enter USCIS or A-Number.)"
+        },
+        {
+          "ref": "Box 4",
+          "label": "4. An alien authorized to work until (exp. date, if any)"
+        },
+        {
+          "ref": "Box 4",
+          "label": "USCIS A-Number"
+        },
+        {
+          "ref": "Box 4",
+          "label": "Form I-94 Admission Number"
+        },
+        {
+          "ref": "Box 4",
+          "label": "Foreign Passport Number and Country of Issuance"
+        },
+        {
+          "ref": "Section 1",
+          "label": "Signature of Employee"
+        },
+        {
+          "ref": "Section 1",
+          "label": "Today's Date (mm/dd/yyyy)"
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "name": "Lists of acceptable documents (page 2)",
+      "fields": [
+        {
+          "ref": "List A",
+          "label": "Documents that Establish Both Identity and Employment Authorization"
+        },
+        {
+          "ref": "List B",
+          "label": "Documents that Establish Identity"
+        },
+        {
+          "ref": "List C",
+          "label": "Documents that Establish Employment Authorization"
+        },
+        {
+          "ref": "Page 2",
+          "label": "Acceptable Receipts"
+        }
+      ]
+    },
+    {
+      "id": "section2",
+      "name": "Section 2: Employer review and verification",
+      "fields": [
+        {
+          "ref": "Section 2",
+          "label": "Document Title / Issuing Authority / Document Number (if any) / Expiration Date (if any)"
+        },
+        {
+          "ref": "Section 2",
+          "label": "Check here if you used an alternative procedure authorized by DHS to examine documents."
+        },
+        {
+          "ref": "Section 2",
+          "label": "First Day of Employment (mm/dd/yyyy) / Signature of Employer or Authorized Representative"
+        }
+      ]
+    },
+    {
+      "id": "supplementA",
+      "name": "Supplement A: Preparer and/or translator",
+      "fields": [
+        {
+          "ref": "Supplement A",
+          "label": "Signature of Preparer or Translator"
+        },
+        {
+          "ref": "Supplement A",
+          "label": "Last Name (Family Name) / First Name (Given Name) / Address (Street Number and Name)"
+        }
+      ]
+    },
+    {
+      "id": "supplementB",
+      "name": "Supplement B: Reverification and rehire",
+      "fields": [
+        {
+          "ref": "Supplement B",
+          "label": "Date of Rehire (if applicable)"
+        },
+        {
+          "ref": "Supplement B",
+          "label": "New Name (if applicable)"
+        },
+        {
+          "ref": "Supplement B",
+          "label": "Reverification: Document Title / Document Number (if any) / Expiration Date (if any) (mm/dd/yyyy)"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "USCIS Number (A-Number)",
+    "Form I-94 Admission Number",
+    "Lawful permanent resident",
+    "Noncitizen national",
+    "Alien authorized to work",
+    "Employment Authorization Document (Form I-766)",
+    "Permanent Resident Card (Form I-551)",
+    "Acceptable receipt",
+    "E-Verify",
+    "Preparer and/or Translator",
+    "Authorized Representative",
+    "Reverification",
+    "Alternative procedure",
+    "Handbook for Employers (M-274)"
+  ]
+}

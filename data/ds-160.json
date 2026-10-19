@@ -1,0 +1,283 @@
+{
+  "slug": "ds-160",
+  "form": "DS-160",
+  "issuer": "U.S. Department of State",
+  "formLanguage": "en",
+  "officialUrl": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application.html",
+  "edition": "Online form (OMB No. 1405-0182), as of the review date",
+  "lastChecked": "2026-10-16",
+  "summary": "The DS-160 is the online application for a U.S. nonimmigrant visa, such as a visitor, student or work visa. Everyone who applies for one fills it in, one form per person, before the visa interview.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/ds-160?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "start",
+      "name": "Getting started",
+      "fields": [
+        {
+          "label": "Location"
+        },
+        {
+          "label": "Security Question"
+        },
+        {
+          "label": "Application ID"
+        }
+      ]
+    },
+    {
+      "id": "personal",
+      "name": "Personal Information 1 and 2",
+      "fields": [
+        {
+          "label": "Surnames / Given Names"
+        },
+        {
+          "label": "Full Name in Native Alphabet"
+        },
+        {
+          "label": "Other Names Used"
+        },
+        {
+          "label": "Date of Birth / Place of Birth"
+        },
+        {
+          "label": "Nationality"
+        },
+        {
+          "label": "National Identification Number"
+        },
+        {
+          "label": "U.S. Social Security Number"
+        },
+        {
+          "label": "U.S. Taxpayer ID Number"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Address and Phone",
+      "fields": [
+        {
+          "label": "Home Address"
+        },
+        {
+          "label": "Primary Phone Number"
+        },
+        {
+          "label": "Email Address"
+        },
+        {
+          "label": "Social Media"
+        }
+      ]
+    },
+    {
+      "id": "passport",
+      "name": "Passport",
+      "fields": [
+        {
+          "label": "Passport/Travel Document Type"
+        },
+        {
+          "label": "Passport/Travel Document Number"
+        },
+        {
+          "label": "Passport Book Number"
+        },
+        {
+          "label": "Country/Authority that Issued Passport"
+        },
+        {
+          "label": "Issuance Date / Expiration Date"
+        },
+        {
+          "label": "Have you ever lost a passport or had one stolen?"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "fields": [
+        {
+          "label": "Purpose of Trip to the U.S."
+        },
+        {
+          "label": "Have you made specific travel plans?"
+        },
+        {
+          "label": "Intended Date of Arrival"
+        },
+        {
+          "label": "Intended Length of Stay in U.S."
+        },
+        {
+          "label": "Address Where You Will Stay in the U.S."
+        },
+        {
+          "label": "Person/Entity Paying for Your Trip"
+        }
+      ]
+    },
+    {
+      "id": "companions",
+      "name": "Travel Companions",
+      "fields": [
+        {
+          "label": "Are there other persons traveling with you?"
+        }
+      ]
+    },
+    {
+      "id": "previous",
+      "name": "Previous U.S. Travel",
+      "fields": [
+        {
+          "label": "Have you ever been in the U.S.?"
+        },
+        {
+          "label": "Have you ever been issued a U.S. Visa?"
+        },
+        {
+          "label": "Have you ever been refused a U.S. Visa, been refused admission to the United States, or withdrawn your application for admission at the point of entry?"
+        }
+      ]
+    },
+    {
+      "id": "usContact",
+      "name": "U.S. Point of Contact",
+      "fields": [
+        {
+          "label": "U.S. Point of Contact Information"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "fields": [
+        {
+          "label": "Father’s Surnames and Given Names / Mother’s Surnames and Given Names"
+        },
+        {
+          "label": "Do you have any immediate relatives, not including parents, in the United States?"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "name": "Work, education and training",
+      "fields": [
+        {
+          "label": "Primary Occupation"
+        },
+        {
+          "label": "Briefly describe your duties"
+        },
+        {
+          "label": "Were you previously employed?"
+        },
+        {
+          "label": "Have you attended any educational institutions at a secondary level or above?"
+        },
+        {
+          "label": "Have you traveled to any countries/regions within the last five years?"
+        }
+      ]
+    },
+    {
+      "id": "student",
+      "name": "Student and exchange pages (SEVIS)",
+      "fields": [
+        {
+          "label": "SEVIS ID"
+        },
+        {
+          "label": "Program Number"
+        },
+        {
+          "label": "Additional Point of Contact Information"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "Security and Background",
+      "fields": [
+        {
+          "label": "Security and Background"
+        },
+        {
+          "label": "Explain"
+        }
+      ]
+    },
+    {
+      "id": "photo",
+      "name": "Photo",
+      "fields": [
+        {
+          "label": "Upload Your Photo"
+        }
+      ]
+    },
+    {
+      "id": "sign",
+      "name": "Review, Sign and Submit, Confirmation",
+      "fields": [
+        {
+          "label": "Did anyone assist you in filling out this application?"
+        },
+        {
+          "label": "Sign Application"
+        },
+        {
+          "label": "Print Confirmation"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Consular Electronic Application Center (CEAC)",
+    "Application ID",
+    "Barcode confirmation",
+    "Nonimmigrant visa",
+    "Visa category",
+    "MRV fee",
+    "Principal applicant",
+    "Does Not Apply",
+    "Do Not Know",
+    "SEVIS ID",
+    "I-20",
+    "DS-2019",
+    "Point of contact",
+    "Sponsor",
+    "Consular officer"
+  ]
+}

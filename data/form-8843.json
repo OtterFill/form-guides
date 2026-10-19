@@ -1,0 +1,206 @@
+{
+  "slug": "form-8843",
+  "form": "Form 8843",
+  "issuer": "Internal Revenue Service (IRS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.irs.gov/forms-pubs/about-form-8843",
+  "edition": "2025",
+  "lastChecked": "2026-10-19",
+  "summary": "Form 8843 is the statement that students, teachers, researchers and trainees on F, J, M or Q visas, and their spouses and children, file with the IRS to explain why their days in the United States do not count toward U.S. tax residence. Each person files their own form for each year they were in the United States, even with no income, either attached to Form 1040-NR or mailed on its own.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/form-8843?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "header",
+      "name": "Top of page 1: name, number and addresses",
+      "fields": [
+        {
+          "label": "For calendar year 2025, or tax year beginning …, 2025, and ending …, 20 …"
+        },
+        {
+          "label": "Your first name and initial"
+        },
+        {
+          "label": "Last name"
+        },
+        {
+          "label": "Your U.S. taxpayer identification number (TIN), if any"
+        },
+        {
+          "label": "Address in country of residence"
+        },
+        {
+          "label": "Address in the United States"
+        }
+      ]
+    },
+    {
+      "id": "partI",
+      "name": "Part I: General information",
+      "fields": [
+        {
+          "ref": "Line 1a",
+          "label": "Type of U.S. visa (for example, F, J, M, Q, etc.) and date you entered the United States"
+        },
+        {
+          "ref": "Line 1b",
+          "label": "Current nonimmigrant status. If your status has changed, also enter date of change and previous status."
+        },
+        {
+          "ref": "Line 2",
+          "label": "Of what country or countries were you a citizen during the tax year?"
+        },
+        {
+          "ref": "Line 3a",
+          "label": "What country or countries issued you a passport?"
+        },
+        {
+          "ref": "Line 3b",
+          "label": "Enter your passport number(s)"
+        },
+        {
+          "ref": "Line 4a",
+          "label": "Enter the actual number of days you were present in the United States during: 2025 / 2024 / 2023"
+        },
+        {
+          "ref": "Line 4b",
+          "label": "Enter the number of days in 2025 you claim you can exclude for purposes of the substantial presence test"
+        }
+      ]
+    },
+    {
+      "id": "partII",
+      "name": "Part II: Teachers and trainees",
+      "fields": [
+        {
+          "ref": "Line 5",
+          "label": "For teachers, enter the name, address, and telephone number of the academic institution where you taught in 2025"
+        },
+        {
+          "ref": "Line 6",
+          "label": "For trainees, enter the name, address, and telephone number of the director of the academic or other specialized program you participated in during 2025"
+        },
+        {
+          "ref": "Line 7",
+          "label": "Enter the type of U.S. visa (J or Q) you held during: 2019 2020 2021 2022 2023 2024"
+        },
+        {
+          "ref": "Line 8",
+          "label": "Were you exempt as a teacher, trainee, or student for any part of 2 of the preceding 6 calendar years (2019 through 2024)?"
+        }
+      ]
+    },
+    {
+      "id": "partIII",
+      "name": "Part III: Students",
+      "fields": [
+        {
+          "ref": "Line 9",
+          "label": "Enter the name, address, and telephone number of the academic institution you attended during 2025"
+        },
+        {
+          "ref": "Line 10",
+          "label": "Enter the name, address, and telephone number of the director of the academic or other specialized program you participated in during 2025"
+        },
+        {
+          "ref": "Line 11",
+          "label": "Enter the type of U.S. visa (F, J, M, or Q) you held during: 2019 2020 2021 2022 2023 2024"
+        },
+        {
+          "ref": "Line 12",
+          "label": "Were you exempt as a teacher, trainee, or student for any part of more than 5 calendar years?"
+        },
+        {
+          "ref": "Line 13",
+          "label": "During 2025, did you apply for, or take other affirmative steps to apply for, lawful permanent resident status in the United States or have an application pending to change your status to that of a lawful permanent resident of the United States?"
+        },
+        {
+          "ref": "Line 14",
+          "label": "If you checked the “Yes” box on line 13, explain"
+        }
+      ]
+    },
+    {
+      "id": "partIV",
+      "name": "Part IV: Professional athletes",
+      "fields": [
+        {
+          "ref": "Line 15",
+          "label": "Enter the name of the charitable sports event(s) in the United States in which you competed during 2025 and the dates of competition"
+        },
+        {
+          "ref": "Line 16",
+          "label": "Enter the name(s) and employer identification number(s) of the charitable organization(s) that benefited from the sports event(s)"
+        }
+      ]
+    },
+    {
+      "id": "partV",
+      "name": "Part V: Individuals with a medical condition or medical problem",
+      "fields": [
+        {
+          "ref": "Line 17a",
+          "label": "Describe the medical condition or medical problem that prevented you from leaving the United States"
+        },
+        {
+          "ref": "Line 17b",
+          "label": "Enter the date you intended to leave the United States prior to the onset of the medical condition or medical problem described on line 17a"
+        },
+        {
+          "ref": "Line 17c",
+          "label": "Enter the date you actually left the United States"
+        },
+        {
+          "ref": "Line 18",
+          "label": "Physician’s Statement"
+        }
+      ]
+    },
+    {
+      "id": "sign",
+      "name": "Signature (only when you file the form on its own)",
+      "fields": [
+        {
+          "label": "Your signature"
+        },
+        {
+          "label": "Date"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Exempt individual",
+    "Alien individual",
+    "Substantial presence test",
+    "Nonimmigrant status",
+    "Taxpayer identification number (TIN)",
+    "Lawful permanent resident",
+    "Director of the academic or other specialized program",
+    "Penalties of perjury"
+  ]
+}

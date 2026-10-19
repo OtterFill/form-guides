@@ -1,0 +1,250 @@
+{
+  "slug": "uk-visitor-visa",
+  "form": "UK visitor visa",
+  "issuer": "UK Visas and Immigration (Home Office)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+  "edition": "Online Standard Visitor visa application on GOV.UK, as of the review date",
+  "lastChecked": "2026-10-19",
+  "summary": "The UK Standard Visitor visa application is the online GOV.UK form for people who need a visa to visit the UK for tourism, family, business or a short course. Each traveller fills in their own application before travelling, then gives fingerprints and a photo at a visa application centre.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/uk-visitor-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "start",
+      "name": "Account and contact details",
+      "fields": [
+        {
+          "label": "Select your language"
+        },
+        {
+          "label": "Select a country to provide your biometrics"
+        },
+        {
+          "label": "Email address"
+        },
+        {
+          "label": "Your telephone number / Contacting you by telephone"
+        }
+      ]
+    },
+    {
+      "id": "personal",
+      "name": "Personal details",
+      "fields": [
+        {
+          "label": "Your name"
+        },
+        {
+          "label": "Any other names"
+        },
+        {
+          "label": "Your sex and relationship status"
+        },
+        {
+          "label": "Your address / Is this address also your correspondence address?"
+        },
+        {
+          "label": "About this property"
+        }
+      ]
+    },
+    {
+      "id": "passport",
+      "name": "Passport and nationality",
+      "fields": [
+        {
+          "label": "Your passport"
+        },
+        {
+          "label": "Your identity card"
+        },
+        {
+          "label": "Your nationality, country and date of birth"
+        },
+        {
+          "label": "Your other nationalities"
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "name": "Employment and finances",
+      "fields": [
+        {
+          "label": "Your employment status"
+        },
+        {
+          "label": "Your income and savings"
+        },
+        {
+          "label": "About the cost of your visit"
+        },
+        {
+          "label": "About your financial situation"
+        },
+        {
+          "label": "Paying for your visit"
+        }
+      ]
+    },
+    {
+      "id": "trip",
+      "name": "Your trip",
+      "fields": [
+        {
+          "label": "Your planned travel information"
+        },
+        {
+          "label": "Spoken language preference"
+        },
+        {
+          "label": "Main reason for your visit"
+        },
+        {
+          "label": "Your activities"
+        },
+        {
+          "label": "Accommodation in the UK"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family and travel companions",
+      "fields": [
+        {
+          "label": "People financially dependent on you"
+        },
+        {
+          "label": "Your partner’s details"
+        },
+        {
+          "label": "Your parents’ information"
+        },
+        {
+          "label": "Family who live in the UK"
+        },
+        {
+          "label": "Travelling as part of an organised group / Travelling with another person"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Travel and immigration history",
+      "fields": [
+        {
+          "label": "UK travel history"
+        },
+        {
+          "label": "Medical treatment in the UK"
+        },
+        {
+          "label": "National Insurance number / UK driving licence"
+        },
+        {
+          "label": "Public funds"
+        },
+        {
+          "label": "UK visa applications"
+        },
+        {
+          "label": "Travel to Australia, Canada, New Zealand, USA, Switzerland or the European Economic Area"
+        },
+        {
+          "label": "World travel history"
+        },
+        {
+          "label": "Immigration history"
+        },
+        {
+          "label": "Breach of UK immigration law"
+        }
+      ]
+    },
+    {
+      "id": "background",
+      "name": "Convictions, character and employment history",
+      "fields": [
+        {
+          "label": "Criminal convictions and other offences"
+        },
+        {
+          "label": "War crimes"
+        },
+        {
+          "label": "Terrorist activities, organisations and views / Extremist organisations and views"
+        },
+        {
+          "label": "Person of good character"
+        },
+        {
+          "label": "Your employment history"
+        }
+      ]
+    },
+    {
+      "id": "finish",
+      "name": "Documents, declaration and payment",
+      "fields": [
+        {
+          "label": "Additional information"
+        },
+        {
+          "label": "Check your answers"
+        },
+        {
+          "label": "Documents"
+        },
+        {
+          "label": "Visitor conditions / Declaration"
+        },
+        {
+          "label": "Visa length options"
+        },
+        {
+          "label": "Choose a service / Payment"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "UK Visas and Immigration (UKVI)",
+    "Standard Visitor visa",
+    "Permitted activities",
+    "Genuine visitor",
+    "Biometric information",
+    "Visa application centre",
+    "Document checklist",
+    "eVisa",
+    "Electronic travel authorisation (ETA)",
+    "Long-term Standard Visitor visa",
+    "Public funds",
+    "Certified translation"
+  ]
+}

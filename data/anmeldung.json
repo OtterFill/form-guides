@@ -1,0 +1,142 @@
+{
+  "slug": "anmeldung",
+  "form": "Anmeldung",
+  "issuer": "Meldebehörde",
+  "formLanguage": "de",
+  "officialUrl": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99115005104000",
+  "edition": "Meldeschein, § 17 BMG",
+  "lastChecked": "2026-10-14",
+  "summary": "The Anmeldung is the form (Meldeschein) you hand in at your local registration office (Meldebehörde) to register the flat you have moved into. You must register within two weeks of moving in, with your passport or ID and a confirmation from your landlord.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/anmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "person",
+      "name": "Personal details",
+      "fields": [
+        {
+          "label": "Familienname (Ehename)"
+        },
+        {
+          "label": "Frühere Namen (z. B. Geburtsname)"
+        },
+        {
+          "label": "Vorname(n) (Rufname unterstreichen)"
+        },
+        {
+          "label": "Doktorgrad"
+        },
+        {
+          "label": "Familienstand"
+        },
+        {
+          "label": "Geschlecht"
+        },
+        {
+          "label": "Geburtsdatum"
+        },
+        {
+          "label": "Geburtsort (Gemeinde, Landkreis; falls Ausland: auch Staat angeben)"
+        },
+        {
+          "label": "Ordens-/Künstlername"
+        },
+        {
+          "label": "Staatsangehörigkeit(en)"
+        },
+        {
+          "label": "Religion"
+        },
+        {
+          "label": "Datum und Ort der Eheschließung / Begründung der Lebenspartnerschaft"
+        }
+      ]
+    },
+    {
+      "id": "move",
+      "name": "The move and the flat",
+      "fields": [
+        {
+          "label": "Tag des Einzugs"
+        },
+        {
+          "label": "Neue Wohnung (Straße/Platz, Hausnummer, Stockwerk)"
+        },
+        {
+          "label": "Bisherige Hauptwohnung / Letzte Anschrift im Inland"
+        },
+        {
+          "label": "alleinige Wohnung / Hauptwohnung / Nebenwohnung"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family members",
+      "fields": [
+        {
+          "label": "Angaben über nicht mitzuziehenden Ehe-, Lebenspartner*in"
+        },
+        {
+          "label": "Leben Sie dauerhaft getrennt von Ihrer/m nicht mitzuziehenden Ehe-, Lebenspartner*in?"
+        },
+        {
+          "label": "Gesetzliche Vertreter"
+        }
+      ]
+    },
+    {
+      "id": "papers",
+      "name": "Documents and signature",
+      "fields": [
+        {
+          "label": "Pass- und Ausweisdaten (Art, Seriennummer, Ausstellungsbehörde, Ausstellungsdatum, Gültig bis)"
+        },
+        {
+          "label": "Wohnungsgeberbestätigung (separates Formular)"
+        },
+        {
+          "label": "Ort, Datum / Unterschrift der meldepflichtigen Person"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Anmeldung",
+    "Meldebehörde",
+    "Alleinige Wohnung",
+    "Hauptwohnung",
+    "Nebenwohnung",
+    "Wohnungsgeberbestätigung",
+    "Meldebestätigung",
+    "Rufname",
+    "Öffentlich-rechtliche Religionsgesellschaft",
+    "Kirchensteuer",
+    "Steueridentifikationsnummer (Steuer-ID)",
+    "Abmeldung"
+  ]
+}

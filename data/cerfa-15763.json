@@ -1,0 +1,169 @@
+{
+  "slug": "cerfa-15763",
+  "form": "Cerfa 15763",
+  "issuer": "Assurance Maladie",
+  "formLanguage": "fr",
+  "officialUrl": "https://www.service-public.gouv.fr/particuliers/vosdroits/R45084",
+  "edition": "N° 15763*02 (S 1106a)",
+  "lastChecked": "2026-10-19",
+  "summary": "Cerfa 15763*02, known as the S1106, is the form you send to French public health insurance (Assurance Maladie) to open your right to have your healthcare costs covered when you are not yet attached to a French social security scheme. You fill it in when you start working in France or, if you do not work, once you live in France in a stable and regular way, usually after 3 months.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/cerfa-15763?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "applicant",
+      "name": "A. About you",
+      "fields": [
+        {
+          "ref": "A",
+          "label": "Vos nom et prénoms"
+        },
+        {
+          "ref": "A",
+          "label": "Votre n° de sécurité sociale (si vous en avez un)"
+        },
+        {
+          "ref": "A",
+          "label": "Votre n° d’allocataire (allocations familiales, si vous en avez un) / CAF de"
+        },
+        {
+          "ref": "A",
+          "label": "Votre date de naissance"
+        },
+        {
+          "ref": "A",
+          "label": "Commune et pays de naissance"
+        },
+        {
+          "ref": "A",
+          "label": "Votre nationalité : française / UE/EEE/Suisse / autre"
+        },
+        {
+          "ref": "A",
+          "label": "Votre adresse / Code Postal / Commune"
+        },
+        {
+          "ref": "A",
+          "label": "Votre n° de téléphone"
+        },
+        {
+          "ref": "A",
+          "label": "Votre courriel"
+        },
+        {
+          "ref": "A",
+          "label": "Si vous n’avez pas d’adresse personnelle, nom et adresse de l’organisme auprès duquel vous avez élu domicile"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "name": "B. Your work situation",
+      "fields": [
+        {
+          "ref": "B",
+          "label": "Activité professionnelle – précisez laquelle"
+        },
+        {
+          "ref": "B",
+          "label": "Sans activité"
+        },
+        {
+          "ref": "B",
+          "label": "Autre – précisez"
+        },
+        {
+          "ref": "B",
+          "label": "date d'arrivée en France"
+        }
+      ]
+    },
+    {
+      "id": "declaration",
+      "name": "C. Statement and signature",
+      "fields": [
+        {
+          "ref": "C",
+          "label": "Attestation sur l'honneur à compléter par le demandeur"
+        },
+        {
+          "ref": "C",
+          "label": "Fait à / Le"
+        },
+        {
+          "ref": "C",
+          "label": "Signature du demandeur"
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "name": "Documents to attach (back of the form)",
+      "fields": [
+        {
+          "ref": "Verso",
+          "label": "Pour justifier de votre identité (et de la régularité de votre séjour)"
+        },
+        {
+          "ref": "Verso",
+          "label": "Pour l'obtention de votre numéro de sécurité sociale : copie intégrale de votre acte de naissance ou extrait avec filiation"
+        },
+        {
+          "ref": "Verso",
+          "label": "Si vous exercez une activité professionnelle"
+        },
+        {
+          "ref": "Verso",
+          "label": "Si vous êtes sans activité professionnelle : pour justifier de la stabilité de votre résidence en France"
+        },
+        {
+          "ref": "Verso",
+          "label": "Si vous avez des enfants mineurs à votre charge : le formulaire S3705"
+        },
+        {
+          "ref": "Verso",
+          "label": "Pour le versement de vos prestations : votre relevé d'identité bancaire (n° IBAN)"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Assurance maladie",
+    "Caisse primaire d'assurance maladie (CPAM)",
+    "Protection universelle maladie (PUMa)",
+    "Résider en France de manière stable et régulière",
+    "Numéro de sécurité sociale",
+    "Nom d'usage",
+    "N° d’allocataire (CAF)",
+    "UE/EEE/Suisse",
+    "Élire domicile (attestation de domiciliation)",
+    "Titre ou document de séjour",
+    "Acte de naissance avec filiation",
+    "Relevé d'identité bancaire (RIB)",
+    "Formulaire S1 « Inscription dans l'Etat de résidence »"
+  ]
+}

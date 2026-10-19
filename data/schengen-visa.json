@@ -1,0 +1,241 @@
+{
+  "slug": "schengen-visa",
+  "form": "Schengen visa",
+  "issuer": "European Commission / Schengen States",
+  "formLanguage": "en",
+  "officialUrl": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en",
+  "edition": "Annex I to Regulation (EC) No 810/2009, as amended (uniform form with “Other” in field 8, in use since 28 June 2024)",
+  "lastChecked": "2026-10-16",
+  "summary": "The Schengen visa application form is the single EU form you complete to apply for a short-stay visa, meaning a stay of up to 90 days in any 180-day period. Every traveller who needs a visa fills in and signs their own form and gives it to the consulate, or to the service provider the consulate uses, of the country they are visiting.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/schengen-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "applicant",
+      "name": "Fields 1 to 11: About you",
+      "fields": [
+        {
+          "ref": "Field 1",
+          "label": "Surname (Family name)"
+        },
+        {
+          "ref": "Field 2",
+          "label": "Surname at birth (Former family name(s))"
+        },
+        {
+          "ref": "Field 3",
+          "label": "First name(s) (Given name(s))"
+        },
+        {
+          "ref": "Field 4",
+          "label": "Date of birth (day-month-year)"
+        },
+        {
+          "ref": "Field 5",
+          "label": "Place of birth"
+        },
+        {
+          "ref": "Field 6",
+          "label": "Country of birth"
+        },
+        {
+          "ref": "Field 7",
+          "label": "Current nationality / Nationality at birth, if different / Other nationalities"
+        },
+        {
+          "ref": "Field 8",
+          "label": "Sex"
+        },
+        {
+          "ref": "Field 9",
+          "label": "Civil status"
+        },
+        {
+          "ref": "Field 10",
+          "label": "Parental authority (in case of minors)/legal guardian (surname, first name, address, if different from applicant’s, telephone No, email address, and nationality)"
+        },
+        {
+          "ref": "Field 11",
+          "label": "National identity number, where applicable"
+        }
+      ]
+    },
+    {
+      "id": "document",
+      "name": "Fields 12 to 16: Your travel document",
+      "fields": [
+        {
+          "ref": "Field 12",
+          "label": "Type of travel document"
+        },
+        {
+          "ref": "Field 13",
+          "label": "Number of travel document"
+        },
+        {
+          "ref": "Field 14",
+          "label": "Date of issue"
+        },
+        {
+          "ref": "Field 15",
+          "label": "Valid until"
+        },
+        {
+          "ref": "Field 16",
+          "label": "Issued by (country)"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Fields 17 and 18: Family member of an EU, EEA or Swiss citizen",
+      "fields": [
+        {
+          "ref": "Field 17",
+          "label": "Personal data of the family member who is an EU, EEA or CH citizen or a UK national who is a beneficiary of the EU-UK Withdrawal Agreement, if applicable"
+        },
+        {
+          "ref": "Field 18",
+          "label": "Family relationship with an EU, EEA or CH citizen or a UK national who is a beneficiary of the EU-UK Withdrawal Agreement, if applicable"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Fields 19 to 22: Where you live and work",
+      "fields": [
+        {
+          "ref": "Field 19",
+          "label": "Applicant’s home address and email address / Telephone no."
+        },
+        {
+          "ref": "Field 20",
+          "label": "Residence in a country other than the country of current nationality"
+        },
+        {
+          "ref": "Field 21",
+          "label": "Current occupation"
+        },
+        {
+          "ref": "Field 22",
+          "label": "Employer and employer’s address and telephone number. For students, name and address of educational establishment"
+        }
+      ]
+    },
+    {
+      "id": "trip",
+      "name": "Fields 23 to 29: Your trip",
+      "fields": [
+        {
+          "ref": "Field 23",
+          "label": "Purpose(s) of the journey"
+        },
+        {
+          "ref": "Field 24",
+          "label": "Additional information on purpose of stay"
+        },
+        {
+          "ref": "Field 25",
+          "label": "Member State of main destination (and other Member States of destination, if applicable)"
+        },
+        {
+          "ref": "Field 26",
+          "label": "Member State of first entry"
+        },
+        {
+          "ref": "Field 27",
+          "label": "Number of entries requested"
+        },
+        {
+          "ref": "Field 27",
+          "label": "Intended date of arrival of the first intended stay in the Schengen area"
+        },
+        {
+          "ref": "Field 27",
+          "label": "Intended date of departure from the Schengen area after the first intended stay"
+        },
+        {
+          "ref": "Field 28",
+          "label": "Fingerprints collected previously for the purpose of applying for a Schengen visa"
+        },
+        {
+          "ref": "Field 29",
+          "label": "Entry permit for the final country of destination, where applicable"
+        }
+      ]
+    },
+    {
+      "id": "host",
+      "name": "Fields 30 to 32: Host and costs",
+      "fields": [
+        {
+          "ref": "Field 30",
+          "label": "Surname and first name of the inviting person(s) in the Member State(s). If not applicable, name of hotel(s) or temporary accommodation(s) in the Member State(s)"
+        },
+        {
+          "ref": "Field 31",
+          "label": "Name and address of inviting company/organisation"
+        },
+        {
+          "ref": "Field 32",
+          "label": "Cost of travelling and living during the applicant’s stay is covered"
+        }
+      ]
+    },
+    {
+      "id": "sign",
+      "name": "Field 33, place, date and signature",
+      "fields": [
+        {
+          "ref": "Field 33",
+          "label": "Surname and first name of the person filling in the application form, if different from the applicant"
+        },
+        {
+          "label": "Place and date"
+        },
+        {
+          "label": "Signature of applicant (signature of parental authority/legal guardian, if applicable)"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Member State",
+    "Travel document",
+    "Residence permit or equivalent",
+    "Parental authority",
+    "Registered Partnership",
+    "EU-UK Withdrawal Agreement",
+    "Sponsor",
+    "Single entry / Two entries / Multiple entries",
+    "Airport transit",
+    "Travel medical insurance",
+    "Visa Information System (VIS)",
+    "Service provider",
+    "Commercial intermediary"
+  ]
+}

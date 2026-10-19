@@ -1,0 +1,147 @@
+{
+  "slug": "w-4",
+  "form": "W-4",
+  "issuer": "Internal Revenue Service (IRS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.irs.gov/forms-pubs/about-form-w-4",
+  "edition": "2026",
+  "lastChecked": "2026-10-16",
+  "summary": "Form W-4 is the form you give your employer so it withholds the right amount of federal income tax from each paycheck. Every employee in the U.S. fills it in when starting a job, and gives it to the employer, not to the IRS.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/w-4?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "step1",
+      "name": "Step 1: Personal information",
+      "fields": [
+        {
+          "ref": "Step 1(a)",
+          "label": "First name and middle initial / Last name"
+        },
+        {
+          "ref": "Step 1(a)",
+          "label": "Address"
+        },
+        {
+          "ref": "Step 1(a)",
+          "label": "City or town, state, and ZIP code"
+        },
+        {
+          "ref": "Step 1(b)",
+          "label": "Social security number"
+        },
+        {
+          "ref": "Step 1(c)",
+          "label": "Single or Married filing separately / Married filing jointly or Qualifying surviving spouse / Head of household"
+        }
+      ]
+    },
+    {
+      "id": "step2",
+      "name": "Step 2: Multiple jobs or spouse works",
+      "fields": [
+        {
+          "ref": "Step 2",
+          "label": "Multiple Jobs or Spouse Works"
+        }
+      ]
+    },
+    {
+      "id": "step3",
+      "name": "Step 3: Dependents and other credits",
+      "fields": [
+        {
+          "ref": "Step 3(a)",
+          "label": "Multiply the number of qualifying children under age 17 by $2,200"
+        },
+        {
+          "ref": "Step 3(b)",
+          "label": "Multiply the number of other dependents by $500"
+        },
+        {
+          "ref": "Step 3",
+          "label": "Add the amounts from Steps 3(a) and 3(b), plus the amount for other credits. Enter the total here"
+        }
+      ]
+    },
+    {
+      "id": "step4",
+      "name": "Step 4: Other adjustments",
+      "fields": [
+        {
+          "ref": "Step 4(a)",
+          "label": "Other income (not from jobs)"
+        },
+        {
+          "ref": "Step 4(b)",
+          "label": "Deductions"
+        },
+        {
+          "ref": "Step 4(c)",
+          "label": "Extra withholding"
+        }
+      ]
+    },
+    {
+      "id": "exempt",
+      "name": "Exempt from withholding",
+      "fields": [
+        {
+          "label": "Exempt from withholding"
+        }
+      ]
+    },
+    {
+      "id": "step5",
+      "name": "Step 5: Sign here",
+      "fields": [
+        {
+          "ref": "Step 5",
+          "label": "Employee’s signature (This form is not valid unless you sign it.)"
+        },
+        {
+          "ref": "Step 5",
+          "label": "Date"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Withholding",
+    "Filing status",
+    "Head of household",
+    "Qualifying surviving spouse",
+    "Qualifying child",
+    "Other dependent",
+    "Standard deduction",
+    "Itemized deductions",
+    "Exemption from withholding",
+    "Tax Withholding Estimator",
+    "Nonresident alien",
+    "Estimated tax"
+  ]
+}

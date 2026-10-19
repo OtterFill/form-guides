@@ -1,0 +1,181 @@
+{
+  "slug": "ss-5",
+  "form": "SS-5",
+  "issuer": "Social Security Administration (SSA)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.ssa.gov/forms/ss-5.pdf",
+  "edition": "Form SS-5 (12-2024)",
+  "lastChecked": "2026-10-19",
+  "summary": "Form SS-5, “Application for a Social Security Card”, is the form for asking the U.S. Social Security Administration for a first Social Security number, a replacement card, or a change to your record such as a new name. U.S. citizens and noncitizens with permission to work from the Department of Homeland Security (DHS) fill it in and bring it with original documents to a Social Security office.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/ss-5?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "person",
+      "name": "Items 1–4: Name and birth",
+      "fields": [
+        {
+          "ref": "Item 1",
+          "label": "NAME TO BE SHOWN ON CARD (First / Full Middle Name / Last)"
+        },
+        {
+          "ref": "Item 1",
+          "label": "FULL NAME AT BIRTH IF OTHER THAN ABOVE"
+        },
+        {
+          "ref": "Item 1",
+          "label": "OTHER NAMES USED"
+        },
+        {
+          "ref": "Item 2",
+          "label": "Social Security number previously assigned to the person listed in item 1"
+        },
+        {
+          "ref": "Item 3",
+          "label": "PLACE OF BIRTH (Do Not Abbreviate) City / State or Foreign Country"
+        },
+        {
+          "ref": "Item 4",
+          "label": "DATE OF BIRTH MM/DD/YYYY"
+        }
+      ]
+    },
+    {
+      "id": "status",
+      "name": "Items 5–8: Citizenship, ethnicity, race and sex",
+      "fields": [
+        {
+          "ref": "Item 5",
+          "label": "CITIZENSHIP (Check One): U.S. Citizen"
+        },
+        {
+          "ref": "Item 5",
+          "label": "Legal Alien Allowed To Work"
+        },
+        {
+          "ref": "Item 5",
+          "label": "Legal Alien Not Allowed To Work (See Instructions On Page 3) / Other (See Instructions On Page 3)"
+        },
+        {
+          "ref": "Item 6",
+          "label": "ETHNICITY Are You Hispanic or Latino? (Your Response is Voluntary)"
+        },
+        {
+          "ref": "Item 7",
+          "label": "RACE Select One or More (Your Response is Voluntary)"
+        },
+        {
+          "ref": "Item 8",
+          "label": "SEX Male / Female"
+        }
+      ]
+    },
+    {
+      "id": "parents",
+      "name": "Items 9–10: Parents",
+      "fields": [
+        {
+          "ref": "Item 9.A",
+          "label": "PARENT/ MOTHER'S NAME AT HER BIRTH"
+        },
+        {
+          "ref": "Item 9.B",
+          "label": "PARENT/ MOTHER'S SOCIAL SECURITY NUMBER / Unknown"
+        },
+        {
+          "ref": "Item 10.A",
+          "label": "PARENT/ FATHER'S NAME"
+        },
+        {
+          "ref": "Item 10.B",
+          "label": "PARENT/ FATHER'S SOCIAL SECURITY NUMBER / Unknown"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Items 11–13: Earlier cards",
+      "fields": [
+        {
+          "ref": "Item 11",
+          "label": "Has the person listed in item 1 or anyone acting on his/her behalf ever filed for or received a Social Security number card before? Yes / No / Don't Know"
+        },
+        {
+          "ref": "Item 12",
+          "label": "Name shown on the most recent Social Security card issued for the person listed in item 1"
+        },
+        {
+          "ref": "Item 13",
+          "label": "Enter any different date of birth if used on an earlier application for a card"
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "Items 14–18: Contact, address and signature",
+      "fields": [
+        {
+          "ref": "Item 14",
+          "label": "TODAY'S DATE MM/DD/YYYY"
+        },
+        {
+          "ref": "Item 15",
+          "label": "DAYTIME PHONE NUMBER Area Code / Number"
+        },
+        {
+          "ref": "Item 16",
+          "label": "MAILING ADDRESS (Do Not Abbreviate) Street Address, Apt. No., PO Box, Rural Route No. / City / State/Foreign Country / ZIP Code"
+        },
+        {
+          "ref": "Item 17",
+          "label": "YOUR SIGNATURE"
+        },
+        {
+          "ref": "Item 18",
+          "label": "YOUR RELATIONSHIP TO THE PERSON IN ITEM 1 IS: Self / Natural Or Adoptive Parent / Legal Guardian / Other"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Social Security number (SSN)",
+    "Original Social Security card",
+    "Replacement Social Security card",
+    "Legal name",
+    "Evidence of Age",
+    "Evidence of Identity",
+    "Evidence of U.S. Citizenship",
+    "Evidence of Immigration Status",
+    "Documents certified by the custodian of the original record",
+    "Form I-551, I-94, or I-766",
+    "Form I-20, DS-2019",
+    "DHS work authorization",
+    "Valid non-work reason",
+    "Limits on replacement Social Security cards",
+    "Social Security Card Center"
+  ]
+}

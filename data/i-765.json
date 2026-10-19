@@ -1,0 +1,226 @@
+{
+  "slug": "i-765",
+  "form": "I-765",
+  "issuer": "U.S. Citizenship and Immigration Services (USCIS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.uscis.gov/i-765",
+  "edition": "Edition 08/21/25",
+  "lastChecked": "2026-10-19",
+  "summary": "Form I-765, “Application for Employment Authorization”, is the form you file with USCIS to ask for permission to work in the United States or for a work permit card (EAD). You fill it in yourself, while you are in the United States, under the one eligibility category that fits your situation.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/i-765?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "reason",
+      "name": "Part 1: Reason for applying (select only one box)",
+      "fields": [
+        {
+          "ref": "Part 1, 1.a.",
+          "label": "Initial permission to accept employment."
+        },
+        {
+          "ref": "Part 1, 1.b.",
+          "label": "Replacement of lost, stolen, or damaged employment authorization document, or correction of my employment authorization document NOT DUE to U.S. Citizenship and Immigration Services (USCIS) error."
+        },
+        {
+          "ref": "Part 1, 1.c.",
+          "label": "Renewal of my permission to accept employment. (Attach a copy of your previous employment authorization document.)"
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "name": "Part 2: Information about you",
+      "fields": [
+        {
+          "ref": "Part 2, 1.a.–1.c.",
+          "label": "Your Full Legal Name: Family Name (Last Name) / Given Name (First Name) / Middle Name"
+        },
+        {
+          "ref": "Part 2, 2.a.–4.c.",
+          "label": "Other Names Used"
+        },
+        {
+          "ref": "Part 2, 5.a.–5.f.",
+          "label": "Your U.S. Mailing Address: In Care Of Name (if any) / Street Number and Name / City or Town / State / ZIP Code"
+        },
+        {
+          "ref": "Part 2, 6.–7.e.",
+          "label": "Is your current mailing address the same as your physical address? / U.S. Physical Address"
+        },
+        {
+          "ref": "Part 2, 8.",
+          "label": "Alien Registration Number (A-Number) (if any)"
+        },
+        {
+          "ref": "Part 2, 9.",
+          "label": "USCIS Online Account Number (if any)"
+        },
+        {
+          "ref": "Part 2, 10.",
+          "label": "Sex: Male / Female"
+        },
+        {
+          "ref": "Part 2, 11.",
+          "label": "Marital Status: Single / Married / Divorced / Widowed"
+        },
+        {
+          "ref": "Part 2, 12.",
+          "label": "Have you previously filed Form I-765?"
+        },
+        {
+          "ref": "Part 2, 13.",
+          "label": "Provide your Social Security number (SSN) (if known)."
+        },
+        {
+          "ref": "Part 2, 14.a.–14.b.",
+          "label": "Your Country or Countries of Citizenship or Nationality"
+        },
+        {
+          "ref": "Part 2, 15.a.–15.c.",
+          "label": "Place of Birth: City/Town/Village of Birth / State/Province of Birth / Country of Birth"
+        },
+        {
+          "ref": "Part 2, 16.",
+          "label": "Date of Birth (mm/dd/yyyy)"
+        }
+      ]
+    },
+    {
+      "id": "arrival",
+      "name": "Part 2: Your last arrival in the United States",
+      "fields": [
+        {
+          "ref": "Part 2, 17.",
+          "label": "Form I-94 Arrival-Departure Record Number (if any)"
+        },
+        {
+          "ref": "Part 2, 18.–21.",
+          "label": "Passport Number of Your Most Recently Issued Passport / Travel Document Number (if any) / Country That Issued Your Passport or Travel Document / Expiration Date for Passport or Travel Document (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 2, 22.–23.",
+          "label": "Date of Your Last Arrival Into the United States, On or About (mm/dd/yyyy) / Place of Your Last Arrival Into the United States"
+        },
+        {
+          "ref": "Part 2, 24.",
+          "label": "Immigration Status at Your Last Arrival (for example, B-2 visitor, F-1 student, or no status)"
+        },
+        {
+          "ref": "Part 2, 25.",
+          "label": "Your Current Immigration Status or Category (for example, B-2 visitor, F-1 student, parolee, deferred action, or no status or category)"
+        },
+        {
+          "ref": "Part 2, 26.",
+          "label": "Student and Exchange Visitor Information System (SEVIS) Number (if any)"
+        }
+      ]
+    },
+    {
+      "id": "eligibility",
+      "name": "Part 2: Information about your eligibility category",
+      "fields": [
+        {
+          "ref": "Part 2, 27.",
+          "label": "Eligibility Category"
+        },
+        {
+          "ref": "Part 2, 28.a.–28.c.",
+          "label": "(c)(3)(C) STEM OPT Eligibility Category: Degree / Employer's Name as Listed in E-Verify / Employer's E-Verify Company Identification Number or a Valid E-Verify Client Company Identification Number"
+        },
+        {
+          "ref": "Part 2, 29.",
+          "label": "(c)(26) Eligibility Category: receipt number of your H-1B spouse's most recent Form I-797 Notice for Form I-129"
+        },
+        {
+          "ref": "Part 2, 30.",
+          "label": "(c)(8) Eligibility Category: have you EVER been arrested for and/or convicted of any crime?"
+        },
+        {
+          "ref": "Part 2, 31.a.–31.b.",
+          "label": "(c)(35) and (c)(36) Eligibility Category: receipt number of Form I-797 Notice for Form I-140 / have you EVER been arrested for and/or convicted of any crime?"
+        }
+      ]
+    },
+    {
+      "id": "statement",
+      "name": "Part 3: Applicant’s statement, contact information and signature",
+      "fields": [
+        {
+          "ref": "Part 3, 1.a.–2.",
+          "label": "Applicant's Statement"
+        },
+        {
+          "ref": "Part 3, 3.–5.",
+          "label": "Applicant's Daytime Telephone Number / Mobile Telephone Number (if any) / Email Address (if any)"
+        },
+        {
+          "ref": "Part 3, 6.",
+          "label": "Select this box if you are a Salvadoran or Guatemalan national eligible for benefits under the ABC settlement agreement."
+        },
+        {
+          "ref": "Part 3, 7.a.–7.b.",
+          "label": "Applicant's Signature / Date of Signature (mm/dd/yyyy)"
+        }
+      ]
+    },
+    {
+      "id": "helpers",
+      "name": "Parts 4 to 6: Interpreter, preparer and additional information",
+      "fields": [
+        {
+          "ref": "Part 4",
+          "label": "Interpreter's Contact Information, Certification, and Signature"
+        },
+        {
+          "ref": "Part 5",
+          "label": "Contact Information, Declaration, and Signature of the Person Preparing this Application, If Other Than the Applicant"
+        },
+        {
+          "ref": "Part 6",
+          "label": "Additional Information"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Employment Authorization Document (EAD)",
+    "Eligibility Category",
+    "Incident to status",
+    "Initial EAD / Renewal EAD / Replacement EAD",
+    "Alien Registration Number (A-Number)",
+    "USCIS Online Account Number",
+    "Form I-94, Arrival-Departure Record",
+    "SEVIS Number",
+    "Optional Practical Training (OPT)",
+    "Designated School Official (DSO)",
+    "E-Verify Company Identification Number",
+    "Form I-797 Notice / receipt number",
+    "Biometric Services Appointment",
+    "Form I-765WS, Form I-765 Worksheet"
+  ]
+}

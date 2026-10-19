@@ -1,0 +1,123 @@
+{
+  "slug": "w-8ben",
+  "form": "W-8BEN",
+  "issuer": "Internal Revenue Service (IRS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.irs.gov/forms-pubs/about-form-w-8-ben",
+  "edition": "Rev. October 2021",
+  "lastChecked": "2026-10-14",
+  "summary": "Form W-8BEN is the form an individual who is not a U.S. person gives to a U.S. payer to certify their foreign status and, if they qualify, claim a reduced tax-treaty rate. You give it to whoever pays you, never to the IRS.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/w-8ben?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "partI",
+      "name": "Part I: Identification of the beneficial owner",
+      "fields": [
+        {
+          "ref": "Line 1",
+          "label": "Name of individual who is the beneficial owner"
+        },
+        {
+          "ref": "Line 2",
+          "label": "Country of citizenship"
+        },
+        {
+          "ref": "Line 3",
+          "label": "Permanent residence address"
+        },
+        {
+          "ref": "Line 4",
+          "label": "Mailing address (if different from above)"
+        },
+        {
+          "ref": "Line 5",
+          "label": "U.S. taxpayer identification number (SSN or ITIN), if required"
+        },
+        {
+          "ref": "Line 6a",
+          "label": "Foreign tax identifying number"
+        },
+        {
+          "ref": "Line 6b",
+          "label": "Check if FTIN not legally required"
+        },
+        {
+          "ref": "Line 7",
+          "label": "Reference number(s)"
+        },
+        {
+          "ref": "Line 8",
+          "label": "Date of birth (MM-DD-YYYY)"
+        }
+      ]
+    },
+    {
+      "id": "partII",
+      "name": "Part II: Claim of tax-treaty benefits",
+      "fields": [
+        {
+          "ref": "Line 9",
+          "label": "I certify that the beneficial owner is a resident of … within the meaning of the income tax treaty between the United States and that country"
+        },
+        {
+          "ref": "Line 10",
+          "label": "Special rates and conditions (if applicable)"
+        }
+      ]
+    },
+    {
+      "id": "partIII",
+      "name": "Part III: Certification",
+      "fields": [
+        {
+          "label": "Signature of beneficial owner (or individual authorized to sign for beneficial owner)"
+        },
+        {
+          "label": "Print name of signer"
+        },
+        {
+          "label": "Date (MM-DD-YYYY)"
+        },
+        {
+          "label": "Capacity in which acting"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Beneficial owner",
+    "Withholding agent",
+    "Nonresident alien",
+    "U.S. person",
+    "SSN / ITIN",
+    "Foreign tax identifying number (FTIN)",
+    "Income tax treaty",
+    "Effectively connected income",
+    "Penalties of perjury"
+  ]
+}

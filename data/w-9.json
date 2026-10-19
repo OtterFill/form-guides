@@ -1,0 +1,115 @@
+{
+  "slug": "w-9",
+  "form": "W-9",
+  "issuer": "Internal Revenue Service (IRS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.irs.gov/forms-pubs/about-form-w-9",
+  "edition": "Rev. March 2024",
+  "lastChecked": "2026-10-14",
+  "summary": "Form W-9 is the form you give to a U.S. business or platform that pays you, so it has your correct name and tax number for its year-end tax reports. Only U.S. persons use it, and you give it to the payer, never to the IRS.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/w-9?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "lines",
+      "name": "Lines 1 to 7: who you are and where you are taxed",
+      "fields": [
+        {
+          "ref": "Line 1",
+          "label": "Name of entity/individual"
+        },
+        {
+          "ref": "Line 2",
+          "label": "Business name/disregarded entity name, if different from above"
+        },
+        {
+          "ref": "Line 3a",
+          "label": "Federal tax classification of the entity/individual whose name is entered on line 1"
+        },
+        {
+          "ref": "Line 3b",
+          "label": "Check this box if you have any foreign partners, owners, or beneficiaries"
+        },
+        {
+          "ref": "Line 4",
+          "label": "Exempt payee code (if any)"
+        },
+        {
+          "ref": "Line 4",
+          "label": "Exemption from FATCA reporting code (if any)"
+        },
+        {
+          "ref": "Line 5",
+          "label": "Address (number, street, and apt. or suite no.)"
+        },
+        {
+          "ref": "Line 6",
+          "label": "City, state, and ZIP code"
+        },
+        {
+          "ref": "Line 7",
+          "label": "List account number(s) here (optional)"
+        }
+      ]
+    },
+    {
+      "id": "partI",
+      "name": "Part I: Taxpayer identification number",
+      "fields": [
+        {
+          "label": "Social security number"
+        },
+        {
+          "label": "Employer identification number"
+        }
+      ]
+    },
+    {
+      "id": "partII",
+      "name": "Part II: Certification",
+      "fields": [
+        {
+          "label": "Signature of U.S. person"
+        },
+        {
+          "label": "Date"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Requester",
+    "U.S. person",
+    "Taxpayer identification number (TIN)",
+    "SSN / ITIN",
+    "Employer identification number (EIN)",
+    "Disregarded entity",
+    "Backup withholding",
+    "Information return (Form 1099)",
+    "FATCA"
+  ]
+}

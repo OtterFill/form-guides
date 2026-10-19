@@ -1,0 +1,157 @@
+{
+  "slug": "brp-registration",
+  "form": "BRP",
+  "issuer": "Gemeente (Burgerzaken)",
+  "formLanguage": "nl",
+  "officialUrl": "https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/inschrijven-in-basisregistratie-personen-brp",
+  "edition": "Aangifte eerste inschrijving, art. 2.38 Wet BRP",
+  "lastChecked": "2026-10-19",
+  "summary": "The first registration (eerste inschrijving) puts you in the Personal Records Database (BRP) of the Dutch municipality where you live, and gives you a citizen service number (BSN). You register in person within 5 days of arriving if you expect to live in the Netherlands for more than 4 months.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/brp-registration?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "person",
+      "name": "Personal details",
+      "fields": [
+        {
+          "label": "Achternaam"
+        },
+        {
+          "label": "Heeft u eerder een andere achternaam gehad?"
+        },
+        {
+          "label": "Voornamen"
+        },
+        {
+          "label": "Man / Vrouw"
+        },
+        {
+          "label": "Geboortedatum"
+        },
+        {
+          "label": "Geboorteplaats"
+        },
+        {
+          "label": "Geboorteland"
+        },
+        {
+          "label": "Nationaliteit"
+        },
+        {
+          "label": "Burgerlijke staat"
+        },
+        {
+          "label": "Heeft u een burgerservicenummer (BSN)? Namelijk (8 of 9 cijfers)"
+        },
+        {
+          "label": "Telefoonnummer (10 cijfers)"
+        },
+        {
+          "label": "E-mail (uwnaam@voorbeeld.nl)"
+        }
+      ]
+    },
+    {
+      "id": "stay",
+      "name": "Your stay and address",
+      "fields": [
+        {
+          "label": "Datum van aankomst in Nederland"
+        },
+        {
+          "label": "Heeft u eerder in Nederland ingeschreven gestaan? (vanaf het jaar)"
+        },
+        {
+          "label": "In welk land woonde u hiervoor?"
+        },
+        {
+          "label": "Op welk adres verblijft u in Rotterdam? / Postcode"
+        },
+        {
+          "label": "Woont u bij iemand in? (Ja, met / Nee)"
+        },
+        {
+          "label": "Hoe lang denkt u in Nederland te blijven?"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Children, parents and marriages",
+      "fields": [
+        {
+          "label": "Wonen uw kinderen in deze gemeente?"
+        },
+        {
+          "label": "Kind(eren): Achternaam, Voornamen, Geboortedatum, Geboorteplaats, Geboorteland, Inwonend"
+        },
+        {
+          "label": "Gegevens van uw ouders (Moeder - Meisjesnaam / Vader)"
+        },
+        {
+          "label": "Huwelijksgegevens: Bent u getrouwd?"
+        },
+        {
+          "label": "Achternaam van uw echtgenoot/echtgenote, Woonplaats, Huwelijksdatum, Huwelijksplaats, Huwelijksland"
+        },
+        {
+          "label": "Eerdere huwelijken: Bent u eerder getrouwd geweest?"
+        },
+        {
+          "label": "Huwelijk ontbonden door (Echtscheiding / Overlijden), datum, plaats en land huwelijksontbinding"
+        }
+      ]
+    },
+    {
+      "id": "sign",
+      "name": "Signature and documents",
+      "fields": [
+        {
+          "label": "Ondertekening: Datum / Handtekening"
+        },
+        {
+          "label": "Huurcontract, koopcontract of toestemming hoofdbewoner (apart document)"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Basisregistratie Personen (BRP)",
+    "Eerste inschrijving",
+    "Gemeente",
+    "Burgerservicenummer (BSN)",
+    "Ingezetene",
+    "Registratie Niet-Ingezetenen (RNI)",
+    "Briefadres",
+    "Hoofdbewoner",
+    "Legalisatie / apostille",
+    "Beëdigd vertaler",
+    "Erkenning",
+    "Bestuurlijke boete"
+  ]
+}

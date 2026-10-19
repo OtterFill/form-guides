@@ -1,0 +1,236 @@
+{
+  "slug": "ds-11",
+  "form": "DS-11",
+  "issuer": "U.S. Department of State",
+  "formLanguage": "en",
+  "officialUrl": "https://travel.state.gov/en/passports/apply/help/forms.html",
+  "edition": "DS-11 04-2025 (OMB No. 1405-0004)",
+  "lastChecked": "2026-10-19",
+  "summary": "Form DS-11 is the U.S. State Department’s application for a passport book or card made in person. You use it for your first passport, for a child under 16, and whenever you cannot renew by mail with Form DS-82.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/ds-11?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "documents",
+      "name": "Book, card or both",
+      "fields": [
+        {
+          "ref": "Page 1",
+          "label": "Select document(s) for which you are submitting fees: U.S. Passport Book / U.S. Passport Card / Both"
+        },
+        {
+          "ref": "Page 1",
+          "label": "Regular Book (Standard) / Large Book (Non-Standard)"
+        }
+      ]
+    },
+    {
+      "id": "personal",
+      "name": "About you (items 1–6)",
+      "fields": [
+        {
+          "ref": "1",
+          "label": "Name: Last / First / Middle"
+        },
+        {
+          "ref": "2",
+          "label": "Date of Birth (MM/DD/YYYY)"
+        },
+        {
+          "ref": "3",
+          "label": "Sex: M / F"
+        },
+        {
+          "ref": "4",
+          "label": "Place of Birth (City & State if in the U.S. or City & Country as it is presently known.)"
+        },
+        {
+          "ref": "5",
+          "label": "Social Security Number"
+        },
+        {
+          "ref": "6",
+          "label": "USCIS Registration A-Number (if applicable)"
+        },
+        {
+          "ref": "Page 1",
+          "label": "List all other names you have used. (Examples: Birth Name, Maiden, Previous Marriage, Legal Name Change)"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Contact details (items 7–9)",
+      "fields": [
+        {
+          "ref": "7",
+          "label": "Email"
+        },
+        {
+          "ref": "8",
+          "label": "Mailing Address Line 1: Street/RFD#, P.O. Box, or URB / City / State / Zip Code / Country (if outside the United States)"
+        },
+        {
+          "ref": "8",
+          "label": "Address Line 2: (If applicant is a child, write \"In Care Of\" the parent)"
+        },
+        {
+          "ref": "9",
+          "label": "Primary Contact Phone Number"
+        }
+      ]
+    },
+    {
+      "id": "agent",
+      "name": "Photo, documents and signatures (left for the appointment)",
+      "fields": [
+        {
+          "ref": "Page 1",
+          "label": "Attach a color photograph of applicant taken within the last six months"
+        },
+        {
+          "ref": "Page 1",
+          "label": "Identifying Documents - Applicant or Mother/Father/Parent/Legal Guardian"
+        },
+        {
+          "ref": "Page 1",
+          "label": "Applicant's Legal Signature - age 16 and older / Mother/Father/Parent/Legal Guardian's Signature (if identifying minor)"
+        }
+      ]
+    },
+    {
+      "id": "parents",
+      "name": "Top of page 2 and parents (item 10)",
+      "fields": [
+        {
+          "ref": "Page 2",
+          "label": "Name of Applicant (Last, First, & Middle) / Date of Birth (MM/DD/YYYY)"
+        },
+        {
+          "ref": "10",
+          "label": "Mother/Father/Parent - First & Middle Name (at Parent's Birth) / Last Name (at Parent's Birth)"
+        },
+        {
+          "ref": "10",
+          "label": "Date of Birth / Place of Birth / Sex / U.S. Citizen?"
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "name": "Marriage (item 11)",
+      "fields": [
+        {
+          "ref": "11",
+          "label": "Have you ever been married?"
+        },
+        {
+          "ref": "11",
+          "label": "Full Name of Current Spouse or Most Recent Spouse (Last, First & Middle) / Date of Birth / Place of Birth / U.S. Citizen?"
+        },
+        {
+          "ref": "11",
+          "label": "Date of Marriage / Have you ever been widowed or divorced? / Widow/Divorce Date"
+        }
+      ]
+    },
+    {
+      "id": "details",
+      "name": "Phone, work and description (items 12–18)",
+      "fields": [
+        {
+          "ref": "12",
+          "label": "Additional Contact Phone Number (Home / Cell / Work)"
+        },
+        {
+          "ref": "13",
+          "label": "Occupation (if age 16 or older)"
+        },
+        {
+          "ref": "14",
+          "label": "Employer or School (if applicable)"
+        },
+        {
+          "ref": "15–17",
+          "label": "Height / Hair Color / Eye Color"
+        },
+        {
+          "ref": "18",
+          "label": "Travel Plans (If no travel plans, please write \"none\"): Departure Date / Return Date / Countries to be Visited"
+        }
+      ]
+    },
+    {
+      "id": "addresses",
+      "name": "Permanent address and emergency contact (items 19–20)",
+      "fields": [
+        {
+          "ref": "19",
+          "label": "Permanent Address (Complete if P.O. Box is listed under Mailing Address or if residence is different from Mailing Address. Do not list a P.O. Box.)"
+        },
+        {
+          "ref": "20",
+          "label": "Your Emergency Contact (Provide the information of a person not traveling with you to be contacted in the event of an emergency.)"
+        }
+      ]
+    },
+    {
+      "id": "previous",
+      "name": "Previous passports (item 21)",
+      "fields": [
+        {
+          "ref": "21",
+          "label": "Have you ever applied for or been issued a U.S. Passport Book or Passport Card?"
+        },
+        {
+          "ref": "21",
+          "label": "Name printed on your most recent book / card; Status of Book / Status of Card: Submitting with application / Stolen / Lost / In my possession (if expired)"
+        },
+        {
+          "ref": "21",
+          "label": "If your most recent passport book/card was lost or stolen, you must explain in detail below."
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Acceptance facility",
+    "Acceptance Agent (authorized agent)",
+    "Oath",
+    "Proof of U.S. citizenship",
+    "Proof of identity",
+    "Passport fee",
+    "Execution fee",
+    "U.S. Passport Card",
+    "Non-citizen U.S. national",
+    "In Care Of",
+    "Acts or Conditions",
+    "DS-82",
+    "DS-3053",
+    "DS-64"
+  ]
+}
