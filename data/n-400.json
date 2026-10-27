@@ -1,0 +1,320 @@
+{
+  "slug": "n-400",
+  "form": "N-400",
+  "issuer": "U.S. Citizenship and Immigration Services (USCIS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.uscis.gov/n-400",
+  "edition": "Edition 01/20/25",
+  "lastChecked": "2026-10-26",
+  "summary": "Form N-400, “Application for Naturalization”, is the form you file with USCIS to become a U.S. citizen. You fill it in yourself, usually as a lawful permanent resident of at least 5 years, or 3 years if you are married to and living with a U.S. citizen.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/n-400?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "eligibility",
+      "name": "Part 1: Information about your eligibility (select only one box)",
+      "fields": [
+        {
+          "ref": "Part 1",
+          "label": "Enter Your 9 Digit A-Number:"
+        },
+        {
+          "ref": "Part 1, 1.A.",
+          "label": "General Provision."
+        },
+        {
+          "ref": "Part 1, 1.B.",
+          "label": "Spouse of U.S. Citizen."
+        },
+        {
+          "ref": "Part 1, 1.C.",
+          "label": "VAWA."
+        },
+        {
+          "ref": "Part 1, 1.D.",
+          "label": "Spouse of U.S. Citizen in Qualified Employment Outside the United States."
+        },
+        {
+          "ref": "Part 1, 1.E.–1.F.",
+          "label": "Military Service During Period of Hostilities. / At Least One Year of Honorable Military Service at Any Time."
+        },
+        {
+          "ref": "Part 1, 1.G.",
+          "label": "Other Reason for Filing Not Listed Above"
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "name": "Part 2: Information about you",
+      "fields": [
+        {
+          "ref": "Part 2, 1.",
+          "label": "Your Current Legal Name (do not provide a nickname)"
+        },
+        {
+          "ref": "Part 2, 2.",
+          "label": "Other Names You Have Used Since Birth"
+        },
+        {
+          "ref": "Part 2, 3.",
+          "label": "Name Change (Optional): Would you like to legally change your name?"
+        },
+        {
+          "ref": "Part 2, 4.",
+          "label": "USCIS Online Account Number (if any)"
+        },
+        {
+          "ref": "Part 2, 5.",
+          "label": "Sex: Male / Female"
+        },
+        {
+          "ref": "Part 2, 6.",
+          "label": "Date of Birth (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 2, 7.",
+          "label": "If you are a lawful permanent resident, provide the date you became a lawful permanent resident (mm/dd/yyyy)."
+        },
+        {
+          "ref": "Part 2, 8.–9.",
+          "label": "Country of Birth / Country of Citizenship or Nationality"
+        },
+        {
+          "ref": "Part 2, 10.",
+          "label": "Was your mother or father (including adoptive mother or father) a U.S. citizen before your 18th birthday?"
+        },
+        {
+          "ref": "Part 2, 11.",
+          "label": "Do you have a physical or developmental disability or mental impairment that prevents you from demonstrating your knowledge and understanding of the English language or civics requirements for naturalization?"
+        },
+        {
+          "ref": "Part 2, 12.a.–12.c.",
+          "label": "Social Security Update: Do you want the Social Security Administration (SSA) to issue you an original or replacement Social Security card and update your immigration status with the SSA if and when you are naturalized? / Provide your Social Security number (SSN) (if any). / Consent for Disclosure"
+        }
+      ]
+    },
+    {
+      "id": "biographic",
+      "name": "Part 3: Biographic information",
+      "fields": [
+        {
+          "ref": "Part 3, 1.–2.",
+          "label": "Ethnicity (Select only one box) / Race (Select all applicable boxes)"
+        },
+        {
+          "ref": "Part 3, 3.–4.",
+          "label": "Height (Feet, Inches) / Weight (Pounds)"
+        },
+        {
+          "ref": "Part 3, 5.–6.",
+          "label": "Eye color (Select only one box) / Hair color (Select only one box)"
+        }
+      ]
+    },
+    {
+      "id": "residence",
+      "name": "Part 4: Information about your residence",
+      "fields": [
+        {
+          "ref": "Part 4, 1.",
+          "label": "Physical Addresses: Physical Address (Street Number and Name) / City or Town / State / Province / ZIP Code / Postal Code / Country / Dates of Residence From (mm/dd/yyyy) To (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 4, 2.–3.",
+          "label": "Is your current physical address also your current mailing address? / Current Mailing Address (Safe Mailing Address, if applicable)"
+        }
+      ]
+    },
+    {
+      "id": "marital",
+      "name": "Part 5: Information about your marital history",
+      "fields": [
+        {
+          "ref": "Part 5, 1.–2.",
+          "label": "What is your current marital status? / If you are currently married, is your spouse a current member of the U.S. armed forces?"
+        },
+        {
+          "ref": "Part 5, 3.",
+          "label": "How many times have you been married?"
+        },
+        {
+          "ref": "Part 5, 4.a.–4.d.",
+          "label": "Current Spouse's Legal Name / Current Spouse's Date of Birth / Date You Entered into Marriage with Current Spouse / Is your current spouse's present physical address the same as your physical address?"
+        },
+        {
+          "ref": "Part 5, 5.a.–8.",
+          "label": "When did your current spouse become a U.S. citizen? / Current Spouse's Alien Registration Number (A-Number) (if any) / How many times has your current spouse been married? / Current Spouse's Current Employer or Company"
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "name": "Part 6: Information about your children",
+      "fields": [
+        {
+          "ref": "Part 6, 1.",
+          "label": "Indicate your total number of children under 18 years of age."
+        },
+        {
+          "ref": "Part 6, 2.",
+          "label": "Son or Daughter's Name / Residence / Date of Birth / Relationship / Are you providing support for your son or daughter?"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Parts 7 and 8: Employment, schools and time outside the United States",
+      "fields": [
+        {
+          "ref": "Part 7, 1.",
+          "label": "Information About Your Employment and Schools You Attended: Employer or School Name / City/Town / State/Province / ZIP Code/Postal Code / Country / Employment/School Dates / Occupation or Field of Study"
+        },
+        {
+          "ref": "Part 8, 1.",
+          "label": "Time Outside the United States: Date You Left the United States / Date You Returned to the United States / Countries to Which You Traveled"
+        }
+      ]
+    },
+    {
+      "id": "conduct",
+      "name": "Part 9: Additional information about you (Items 1 to 22)",
+      "fields": [
+        {
+          "ref": "Part 9, 1.–2.",
+          "label": "Have you EVER claimed to be a U.S. citizen (in writing or any other way)? / Have you EVER registered to vote or voted in any Federal, state, or local election in the United States?"
+        },
+        {
+          "ref": "Part 9, 3.–4.",
+          "label": "Do you currently owe any overdue Federal, state, or local taxes in the United States? / Since you became a lawful permanent resident, have you called yourself a “nonresident alien” on a Federal, state, or local tax return or decided not to file a tax return because you considered yourself to be a nonresident?"
+        },
+        {
+          "ref": "Part 9, 5.a.–14.",
+          "label": "Have you EVER: Been a member of, involved in, or in any way associated with any Communist or totalitarian party anywhere in the world? / … Torture? Genocide? … / Have you EVER served in, been a member of, assisted (helped), or participated in any military or police unit? / … any armed group … / … weapons … / … any person under 15 years of age …"
+        },
+        {
+          "ref": "Part 9, 15.a.–16.",
+          "label": "Have you EVER committed, agreed to commit, asked someone else to commit, helped commit, or tried to commit a crime or offense for which you were NOT arrested? / Have you EVER been arrested, cited, detained or confined by any law enforcement officer, military official (in the U.S. or elsewhere), or immigration official for any reason, or been charged with a crime or offense?"
+        },
+        {
+          "ref": "Part 9, 17.a.–19.",
+          "label": "Have you EVER: Engaged in prostitution … / … controlled substances … / Been married to more than one person at the same time? / Married someone in order to obtain an immigration benefit? / Helped anyone to enter, or try to enter, the United States illegally? / Gambled illegally … / Failed to support your dependents … / Made any misrepresentation to obtain any public benefit … / given … false, fraudulent, or misleading … / lied to any U.S. Government officials …"
+        },
+        {
+          "ref": "Part 9, 20.–21.",
+          "label": "Have you EVER been removed or deported from the United States? / Have you EVER been placed in removal, rescission, or deportation proceedings?"
+        },
+        {
+          "ref": "Part 9, 22.a.–22.c.",
+          "label": "Are you a male who lived in the United States at any time between your 18th and 26th birthdays? / did you register for the Selective Service? / Date Registered / Selective Service Number"
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "name": "Part 9: Military service, titles and the Oath (Items 23 to 37)",
+      "fields": [
+        {
+          "ref": "Part 9, 23.–29.",
+          "label": "Have you EVER left the United States to avoid being drafted in the U.S. armed forces? / … exemption from military service … / Have you EVER served in the U.S. armed forces? / Are you currently a member of the U.S. armed forces? / … court-martialed … / Have you EVER deserted from the U.S. armed forces?"
+        },
+        {
+          "ref": "Part 9, 30.a.–30.b.",
+          "label": "Do you now have, or did you EVER have, a hereditary title or an order of nobility in any foreign country?"
+        },
+        {
+          "ref": "Part 9, 31.–37.",
+          "label": "Do you support the Constitution and form of Government of the United States? / Do you understand the full Oath of Allegiance to the United States? / Are you unable to take the Oath of Allegiance because of a physical or developmental disability or mental impairment? / Are you willing to take the full Oath of Allegiance to the United States? / … bear arms … / … noncombatant services … / … work of national importance under civilian direction …"
+        }
+      ]
+    },
+    {
+      "id": "fee",
+      "name": "Part 10: Request for a fee reduction",
+      "fields": [
+        {
+          "ref": "Part 10, 1.–5.b.",
+          "label": "Request for a Fee Reduction: My household income is less than or equal to 400% of the Federal Poverty Guidelines / Total household income / My household size is / Total number of household members earning income including yourself / I am the head of household"
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "Parts 11 to 14: Contact, signature, interpreter, preparer and extra space",
+      "fields": [
+        {
+          "ref": "Part 11, 1.–3.",
+          "label": "Applicant's Daytime Telephone Number / Applicant's Mobile Telephone Number (if any) / Applicant's Email Address (if any)"
+        },
+        {
+          "ref": "Part 11, 4.",
+          "label": "Applicant's Signature (or signature of a legal guardian, surrogate, or designated representative, if applicable) / Date of Signature (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 12",
+          "label": "Interpreter's Contact Information, Certification, and Signature"
+        },
+        {
+          "ref": "Part 13",
+          "label": "Contact Information, Certification, and Signature of the Person Preparing this Application, if Other Than the Applicant"
+        },
+        {
+          "ref": "Part 14",
+          "label": "Additional Information"
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "name": "Parts 15 and 16: Completed at the interview",
+      "fields": [
+        {
+          "ref": "Parts 15–16",
+          "label": "Signature at Interview / Oath of Allegiance"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Naturalization",
+    "Lawful Permanent Resident (LPR) / Permanent Resident Card (Green Card)",
+    "Alien Registration Number (A-Number)",
+    "USCIS Online Account Number",
+    "Early Filing",
+    "Continuous Residence",
+    "Physical Presence",
+    "Good Moral Character (GMC)",
+    "EVER",
+    "Naturalization Testing and Exceptions",
+    "Form N-648, Medical Certification for Disability Exceptions",
+    "Form N-470, Application to Preserve Residence for Naturalization Purposes",
+    "Selective Service",
+    "Safe Mailing Address",
+    "Biometric Services Appointment",
+    "Oath of Allegiance"
+  ]
+}

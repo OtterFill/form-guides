@@ -1,0 +1,135 @@
+{
+  "slug": "imm-5645",
+  "form": "IMM 5645",
+  "issuer": "Immigration, Refugees and Citizenship Canada (IRCC)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5645.html",
+  "edition": "IMM 5645 (01-2021) E",
+  "lastChecked": "2026-10-26",
+  "summary": "IMM 5645, “Family Information”, is a form from Immigration, Refugees and Citizenship Canada (IRCC) that lists your spouse or common-law partner, parents, children and brothers and sisters, with each person’s date and country of birth, marital status, address and occupation. Each person aged 18 or older applying for a visitor visa, or for a study or work permit from outside Canada, fills in their own.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/imm-5645?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "application",
+      "name": "Type of application",
+      "fields": [
+        {
+          "label": "Type of application: Visitor / Worker / Student / Other"
+        }
+      ]
+    },
+    {
+      "id": "sectionA",
+      "name": "Section A",
+      "fields": [
+        {
+          "label": "Name"
+        },
+        {
+          "label": "Relationship"
+        },
+        {
+          "label": "Date of birth (YYYY-MM-DD)"
+        },
+        {
+          "label": "Country of birth"
+        },
+        {
+          "label": "Marital status"
+        },
+        {
+          "label": "Present address (if deceased: give city/town, country and date)"
+        },
+        {
+          "label": "Present occupation"
+        },
+        {
+          "label": "Will accompany you to Canada? YES / NO"
+        },
+        {
+          "label": "Applicant"
+        },
+        {
+          "label": "Spouse or common-law partner"
+        },
+        {
+          "label": "Mother / Father"
+        },
+        {
+          "ref": "Note 1",
+          "label": "NOTE 1: If no spouse or common-law partner is listed in Section A, read and sign below. / I certify that I do not have a spouse or a common-law partner. / Signature / Date (YYYY-MM-DD)"
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "name": "Section B – Children",
+      "fields": [
+        {
+          "label": "SECTION B - CHILDREN (Include ALL sons and daughters, including ALL adopted and step-children, regardless of age or place of residence)"
+        },
+        {
+          "ref": "Note 2",
+          "label": "NOTE 2: If no children are listed in Section B, read and sign below. / I certify that I do not have any natural, adopted nor step-children. / Signature / Date (YYYY-MM-DD)"
+        }
+      ]
+    },
+    {
+      "id": "siblings",
+      "name": "Section C – Brothers and Sisters",
+      "fields": [
+        {
+          "label": "SECTION C - BROTHERS AND SISTERS (Include ALL brothers and sisters, ALL half-brother and sister and stepbrother and sister.)"
+        }
+      ]
+    },
+    {
+      "id": "certification",
+      "name": "Section D – Certification",
+      "fields": [
+        {
+          "label": "I certify that the information contained in this document is complete, accurate and factual. I also realize that once this document has been completed and signed that it will form part of my Immigration Record and will be used to verify my family details on future applications. / Signature / Date (YYYY-MM-DD)"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Native language",
+    "Chinese commercial/telegraphic code",
+    "Common-law partner",
+    "Married-physically present / Married-not physically present",
+    "Legally separated",
+    "Annulled marriage",
+    "Step-children",
+    "Half-brother and sister / stepbrother and sister",
+    "Not applicable / N/A",
+    "Immigration Record",
+    "PROTECTED WHEN COMPLETED - B",
+    "Family Information (IMM 5707)"
+  ]
+}

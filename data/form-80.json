@@ -1,0 +1,288 @@
+{
+  "slug": "form-80",
+  "form": "Form 80",
+  "issuer": "Department of Home Affairs (Australia)",
+  "formLanguage": "en",
+  "officialUrl": "https://immi.homeaffairs.gov.au/form-listing/forms/80.pdf",
+  "edition": "80 (Design date 03/21)",
+  "lastChecked": "2026-10-26",
+  "summary": "Form 80, “Personal particulars for assessment including character assessment”, is the Department of Home Affairs form that collects your full personal history so it can check your identity and character for a visa. You fill it in, in English, when the office processing your application asks for it and you are 16 or older.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/form-80?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "applicant",
+      "name": "Part A: Applicant details",
+      "fields": [
+        {
+          "ref": "Part A, 1",
+          "label": "Please provide your details as they appear in your official documents. / Family name / All given names"
+        },
+        {
+          "ref": "Part A, 1",
+          "label": "Sex: Male / Female / Indeterminate / Intersex / Unspecified / Date of birth (Day, month and year MUST be provided)"
+        },
+        {
+          "ref": "Part A, 1",
+          "label": "Suburb of birth / Town/City of birth / State/Province/Region / Country"
+        },
+        {
+          "ref": "Part A, 2",
+          "label": "Do you ever use a Chinese Commercial Code Number for your names shown in the passport/travel document at Question 1?"
+        },
+        {
+          "ref": "Part A, 3",
+          "label": "Are you of Russian descent? / In English, provide your patronymic name"
+        },
+        {
+          "ref": "Part A, 4",
+          "label": "Have you been known by any other name(s)?"
+        },
+        {
+          "ref": "Part A, 5",
+          "label": "Have you ever had a different date of birth to the one shown at Question 1?"
+        },
+        {
+          "ref": "Part A, 6",
+          "label": "Do you currently have citizenship from any country? / No, I am stateless / How did you gain this citizenship (eg. birth, descent, naturalisation)? / Date you gained this citizenship"
+        },
+        {
+          "ref": "Part A, 7",
+          "label": "Do you hold or have you held citizenship from any other country (including dual citizenships and all previous citizenships)?"
+        },
+        {
+          "ref": "Part A, 8",
+          "label": "Do you currently have permanent residency rights in any country other than those declared in Questions 6 or 7?"
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "name": "Parts B and C: Passport, travel and identity documents",
+      "fields": [
+        {
+          "ref": "Part B, 9",
+          "label": "Do you have a current passport or travel document? / Is this the original issue date? / Name on the document (if the same as Question 1, write ‘SAME AS QUESTION 1’)"
+        },
+        {
+          "ref": "Part B, 10",
+          "label": "Do you have any other current passport or travel document?"
+        },
+        {
+          "ref": "Part B, 11–13",
+          "label": "Have you ever had any previous passports or travel documents (including expired, lost or stolen documents)? / What happened to this document / Do you have, or remember, any of the document details?"
+        },
+        {
+          "ref": "Part C, 14",
+          "label": "Do you currently have, or have you ever had, any national identity documents or numbers (including birth registration numbers, social security cards etc)?"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Part D: Address and contact details",
+      "fields": [
+        {
+          "ref": "Part D, 15",
+          "label": "Do you have any email addresses?"
+        },
+        {
+          "ref": "Part D, 16",
+          "label": "Do you have current contact telephone numbers?"
+        },
+        {
+          "ref": "Part D, 17",
+          "label": "Your address history for the last 10 years."
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Parts E to G: International travel, employment and education",
+      "fields": [
+        {
+          "ref": "Part E, 18",
+          "label": "Have you travelled to any country other than Australia in the last 10 years?"
+        },
+        {
+          "ref": "Part F, 19",
+          "label": "Give details of all employment and unemployment"
+        },
+        {
+          "ref": "Part G, 20",
+          "label": "Give details of all tertiary education and qualifications"
+        }
+      ]
+    },
+    {
+      "id": "stay",
+      "name": "Parts H and I: Proposed travel or further stay, and addresses in Australia",
+      "fields": [
+        {
+          "ref": "Part H, 21–24",
+          "label": "Are you currently in Australia? / Why are you travelling to Australia? / Do you have any proposed or booked travel dates for your journey to Australia? / Are you applying for a temporary visa?"
+        },
+        {
+          "ref": "Part H, 25–29",
+          "label": "What is your main reason for remaining in Australia? / List the towns/cities you will visit during your further stay in Australia / Give details of your arrival in Australia / Are you applying for a temporary visa? / Do you have any proposed or booked travel for your departure from Australia?"
+        },
+        {
+          "ref": "Part I, 30–32",
+          "label": "Do you know any details of the places you will stay during your time in Australia (eg. hotel, friends, relatives)? / Will you stay at any other address?"
+        },
+        {
+          "ref": "Part I, 33",
+          "label": "Do you have any other addresses in Australia that have not been declared at Question 17?"
+        }
+      ]
+    },
+    {
+      "id": "visas",
+      "name": "Part J: Australian visa history",
+      "fields": [
+        {
+          "ref": "Part J, 34",
+          "label": "Are you currently in Australia? / Give details of current visa"
+        },
+        {
+          "ref": "Part J, 35",
+          "label": "Have you been to Australia before? / Give details of previous visas"
+        }
+      ]
+    },
+    {
+      "id": "character",
+      "name": "Part K: Character (Question 36)",
+      "fields": [
+        {
+          "ref": "Part K, 36",
+          "label": "Have you, or any other person included in this application, ever: been charged with any offence that is currently awaiting legal action? / been convicted of an offence in any country (including any conviction which is now removed from official records)? / … family or domestic violence … / … arrest warrant or Interpol notice? / … sexually based offence involving a child … / … sex offender register? / … unsoundness of mind or insanity? / … not fit to plead?"
+        },
+        {
+          "ref": "Part K, 36",
+          "label": "… activities which would represent a risk to national security … / … genocide, war crimes, crimes against humanity, torture, slavery … / … associated with a person, group or organisation that has been/is involved in criminal conduct? / … organisation engaged in violence … / served in a military force, police force, state sponsored/private militia or intelligence agency (including secret police)? / … military/paramilitary training … / … people smuggling or people trafficking offences?"
+        },
+        {
+          "ref": "Part K, 36",
+          "label": "been removed, deported or excluded from any country (including Australia)? / overstayed a visa in any country (including Australia)? / had any outstanding debts to the Australian Government or any public authority in Australia?"
+        }
+      ]
+    },
+    {
+      "id": "background",
+      "name": "Parts L to P: Military service, intelligence agencies and refusals",
+      "fields": [
+        {
+          "ref": "Part L, 37",
+          "label": "Have you undertaken any military service? / No: Give reasons / Yes: Give details in chronological order"
+        },
+        {
+          "ref": "Part M, 38",
+          "label": "Are you currently, or have you been employed as an intelligence officer or an agent of an intelligence or security agency?"
+        },
+        {
+          "ref": "Parts N–O, 39–40",
+          "label": "Have you ever been refused a visa to any country? / Have you ever been excluded, asked to leave, deported or removed from any country?"
+        },
+        {
+          "ref": "Part P, 41",
+          "label": "Have you ever been refused, renounced or rescinded citizenship of any country?"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "name": "Part Q: Associated people",
+      "fields": [
+        {
+          "ref": "Part Q, 42",
+          "label": "Do you have a partner?"
+        },
+        {
+          "ref": "Part Q, 43",
+          "label": "Do you have children?"
+        },
+        {
+          "ref": "Part Q, 44",
+          "label": "Do you know details of your parents?"
+        },
+        {
+          "ref": "Part Q, 45",
+          "label": "Do you have siblings?"
+        },
+        {
+          "ref": "Part Q, 46",
+          "label": "Other travelling family members / Are there any other family members included in the visa application?"
+        },
+        {
+          "ref": "Part Q, 47–48",
+          "label": "Do you have any personal contacts in Australia? / Do you have any other personal contacts in Australia?"
+        }
+      ]
+    },
+    {
+      "id": "sponsor",
+      "name": "Part R: Sponsoring employer details",
+      "fields": [
+        {
+          "ref": "Part R, 49–52",
+          "label": "Are you being sponsored by, or associated with, a business or organisation in Australia? / Does the employer/business have any other associated addresses? / … an email address? / … telephone numbers?"
+        }
+      ]
+    },
+    {
+      "id": "declaration",
+      "name": "Parts S and T: Declaration and additional information",
+      "fields": [
+        {
+          "ref": "Part S, 53",
+          "label": "WARNING: Giving false or misleading information is a serious offence. / I declare that: … / Signature of applicant / Date"
+        },
+        {
+          "ref": "Part T, 54",
+          "label": "Additional information: Question number / Additional information"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Character requirements (section 501 of the Migration Act 1958)",
+    "ImmiAccount",
+    "Chinese Commercial Code Number",
+    "Patronymic name",
+    "Stateless",
+    "De facto",
+    "Refugee/humanitarian visa",
+    "CURRENT",
+    "DECEASED",
+    "Part T – Additional information",
+    "Police certificate",
+    "Form 1221 Additional personal particulars information",
+    "Form 1023 Notification of incorrect answer(s)",
+    "Form 1442i Privacy notice"
+  ]
+}

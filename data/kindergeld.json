@@ -1,0 +1,252 @@
+{
+  "slug": "kindergeld",
+  "form": "KG 1",
+  "issuer": "Familienkasse der Bundesagentur für Arbeit",
+  "formLanguage": "de",
+  "officialUrl": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-familie-und-kinder/formulare-kindergeld",
+  "edition": "KG 1 – 01.25 / Anlage Kind – 01.25 (Stand September 2025)",
+  "lastChecked": "2026-10-26",
+  "summary": "The Antrag auf Kindergeld (form KG 1) is the paper application for Germany’s child benefit, sent with one Anlage Kind for each child to the Familienkasse of the Federal Employment Agency. You fill it in if you live in Germany (or are fully taxable there) and a child under 18, or an older child in training, lives with you; only one person receives Kindergeld for each child.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/kindergeld?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "applicant",
+      "name": "KG 1 · 1: About you (the applicant)",
+      "fields": [
+        {
+          "ref": "KG 1",
+          "label": "Kindergeld-Nr."
+        },
+        {
+          "ref": "KG 1",
+          "label": "Anzahl der beigefügten \"Anlage Kind\""
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "Steuerliche Identifikationsnummer der antragstellenden Person (soweit vergeben, zwingend auszufüllen)"
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "Familienname / Titel / Vorname"
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "ggf. Geburtsname und Familienname aus früherer Ehe"
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "Geburtsdatum / Geburtsort / Geschlecht"
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "Staatsangehörigkeit"
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)"
+        },
+        {
+          "ref": "KG 1 · 1",
+          "label": "Familienstand: ledig / verheiratet / geschieden / verwitwet / in eingetragener Lebenspartnerschaft lebend / aufgehobene Lebenspartnerschaft / dauernd getrennt lebend – seit"
+        }
+      ]
+    },
+    {
+      "id": "partner",
+      "name": "KG 1 · 2: Your spouse, partner or the other parent in your household",
+      "fields": [
+        {
+          "ref": "KG 1 · 2",
+          "label": "Steuerliche Identifikationsnummer (soweit vergeben, bitte ausfüllen)"
+        },
+        {
+          "ref": "KG 1 · 2",
+          "label": "Familienname / Vorname / Titel / Geburtsdatum / Staatsangehörigkeit / Geschlecht / ggf. Geburtsname und Familienname aus früherer Ehe"
+        },
+        {
+          "ref": "KG 1 · 2",
+          "label": "Anschrift, wenn abweichend von antragstellender Person, z. B. bei weiterem Wohnsitz im In- oder Ausland"
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "name": "KG 1 · 3: Bank account",
+      "fields": [
+        {
+          "ref": "KG 1 · 3",
+          "label": "IBAN / BIC / Bank, Finanzinstitut (ggf. auch Zweigstelle)"
+        },
+        {
+          "ref": "KG 1 · 3",
+          "label": "Kontoinhaber(in) ist: antragstellende Person wie unter Nr. 1 / nicht antragstellende Person, sondern: Familienname, Vorname"
+        }
+      ]
+    },
+    {
+      "id": "others",
+      "name": "KG 1 · 4–6: Notice and your other children",
+      "fields": [
+        {
+          "ref": "KG 1 · 4",
+          "label": "Der Bescheid soll nicht mir, sondern folgender Person (z. B. Steuerberater, Rechtsanwalt, etc.) zugesandt werden"
+        },
+        {
+          "ref": "KG 1 · 5",
+          "label": "Für folgende Kinder beziehe ich bereits Kindergeld (auch in Fällen der abweichenden Kontoverbindung, Abzweigung und Erstattung)"
+        },
+        {
+          "ref": "KG 1 · 6",
+          "label": "Weitere eigene Kinder, für die eine andere Person Kindergeld bezieht"
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "KG 1: Signatures",
+      "fields": [
+        {
+          "ref": "KG 1",
+          "label": "Datum / Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung"
+        },
+        {
+          "ref": "KG 1",
+          "label": "Ich bin damit einverstanden, dass das Kindergeld zugunsten der antragstellenden Person festgesetzt bzw. bewilligt wird. – Unterschrift der unter Punkt 2 genannten Person bzw. deren gesetzliche Vertretung"
+        }
+      ]
+    },
+    {
+      "id": "child",
+      "name": "Anlage Kind · 1: The child (one Anlage Kind per child)",
+      "fields": [
+        {
+          "ref": "Anlage Kind",
+          "label": "Familienname und Vorname der antragstellenden Person / Kindergeld-Nr. / zum Antrag auf Kindergeld vom / Lfd. Nr."
+        },
+        {
+          "ref": "Anlage Kind · 1",
+          "label": "Steuerliche Identifikationsnummer des Kindes (soweit vergeben, zwingend auszufüllen)"
+        },
+        {
+          "ref": "Anlage Kind · 1",
+          "label": "Familienname / Titel / Vorname / Geburtsname / Geburtsdatum / Geburtsort / Geschlecht / Staatsangehörigkeit"
+        },
+        {
+          "ref": "Anlage Kind · 1",
+          "label": "Anschrift, wenn abweichend von antragstellender Person / Grund der abweichenden Anschrift"
+        }
+      ]
+    },
+    {
+      "id": "relationship",
+      "name": "Anlage Kind · 2: Relationship to the child",
+      "fields": [
+        {
+          "ref": "Anlage Kind · 2",
+          "label": "Kindschaftsverhältnis: leibliches Kind / Adoptivkind / Pflegekind / Stiefkind / Enkelkind – zur antragstellenden Person / zum/zur Ehepartner(in) bzw. eingetragenen Lebenspartner(in) / zu einer anderen Person"
+        },
+        {
+          "ref": "Anlage Kind · 2",
+          "label": "Angaben zur anderen Person: Familienname / Vorname / Geburtsdatum / letzte bekannte Anschrift / Staatsangehörigkeit / ggf. Zusatzangaben (z. B verstorben, Vaterschaft nicht festgestellt, unbekannt)"
+        }
+      ]
+    },
+    {
+      "id": "adult",
+      "name": "Anlage Kind · 3: Only for a child who is 18 or about to turn 18",
+      "fields": [
+        {
+          "ref": "Anlage Kind · 3",
+          "label": "Nachweise zu den Angaben (Punkt 3.1 - 3.3) für ein volljähriges Kind: sind beigefügt / liegen bereits vor / werden nachgereicht"
+        },
+        {
+          "ref": "Anlage Kind · 3.1",
+          "label": "Das Kind … (Schul-, Hochschul- oder Berufsausbildung / sonstige Ausbildungsmaßnahme / mangels Ausbildungsplatz / freiwilliger Dienst / Übergangszeit / arbeitsuchend gemeldet) – ab/von, bis"
+        },
+        {
+          "ref": "Anlage Kind · 3.2 a",
+          "label": "Das Kind hat bereits eine Berufsausbildung oder ein Studium abgeschlossen bzw. wird diese(s) in Kürze abschließen."
+        },
+        {
+          "ref": "Anlage Kind · 3.2 b",
+          "label": "Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein. … Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit"
+        },
+        {
+          "ref": "Anlage Kind · 3.3",
+          "label": "Liegt bei dem Kind eine Behinderung vor, welche vor Vollendung des 25. Lebensjahres eingetreten ist?"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Anlage Kind · 4–7: Earlier claims, public service, abroad, signature",
+      "fields": [
+        {
+          "ref": "Anlage Kind · 4",
+          "label": "Haben Sie oder eine unter Punkt 2 genannte Person für dieses Kind bereits Kindergeld beantragt oder erhalten?"
+        },
+        {
+          "ref": "Anlage Kind · 5",
+          "label": "Sind Sie oder eine unter Punkt 2 genannte Person, zu der das Kind in einem Kindschaftsverhältnis steht, im öffentlichen Dienst tätig?"
+        },
+        {
+          "ref": "Anlage Kind · 6",
+          "label": "Besteht oder bestand für Sie oder eine unter Punkt 2 genannte Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?"
+        },
+        {
+          "ref": "Anlage Kind · 7",
+          "label": "Sind oder waren Sie oder eine unter Punkt 2 genannte Person … in den letzten 5 Jahren vor der Antragstellung a) außerhalb Deutschlands … tätig? b) in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates oder als Angehörige(r) der NATO-Streitkräfte tätig? c) in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?"
+        },
+        {
+          "ref": "Anlage Kind",
+          "label": "Datum / Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Kindergeld",
+    "Familienkasse",
+    "Anlage Kind",
+    "Anlage EU",
+    "Anlage Ausland",
+    "Steuerliche Identifikationsnummer",
+    "Kindergeldnummer",
+    "Antragstellende Person",
+    "Aufenthaltstitel",
+    "Gemeinsamer Haushalt",
+    "Kindschaftsverhältnis",
+    "Dauernd getrennt lebend",
+    "Volljähriges Kind",
+    "Geringfügige Beschäftigung (Minijob)",
+    "Öffentlicher Dienst",
+    "Bescheid",
+    "Merkblatt Kindergeld",
+    "BundID"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "abmeldung",
+  "form": "Abmeldung",
+  "issuer": "Meldebehörde",
+  "formLanguage": "de",
+  "officialUrl": "https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99115005070000",
+  "edition": "Meldeschein (Abmeldung bei der Meldebehörde), § 17 Abs. 2 BMG",
+  "lastChecked": "2026-10-26",
+  "summary": "The Abmeldung is the form (Meldeschein) you hand in at the registration office (Meldebehörde) when you leave a flat in Germany without moving into another one in Germany, usually because you move abroad or give up a second home. You deregister from 1 week before until 2 weeks after you move out; if you only move within Germany, registering at the new address is enough.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/abmeldung?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "move",
+      "name": "The move and your homes",
+      "fields": [
+        {
+          "label": "Tag des Auszugs"
+        },
+        {
+          "label": "Bisherige Wohnung (Straße/Platz, Hausnummer, Stockwerk)"
+        },
+        {
+          "label": "Neue Wohnung (Straße/Platz, Hausnummer, Stockwerk)"
+        },
+        {
+          "label": "Die bisherige Wohnung war im Bereich des Bundesgebietes die alleinige Wohnung / Hauptwohnung / Nebenwohnung"
+        },
+        {
+          "label": "Weitere Wohnung(en) im Bundesgebiet – Diese Wohnung ist Hauptwohnung / Nebenwohnung"
+        }
+      ]
+    },
+    {
+      "id": "person",
+      "name": "Personal details (one row per person)",
+      "fields": [
+        {
+          "label": "Familienname (Ehename)"
+        },
+        {
+          "label": "Frühere Namen (z.B. Geburtsname)"
+        },
+        {
+          "label": "Vorname(n) (Rufname unterstreichen)"
+        },
+        {
+          "label": "Doktorgrad"
+        },
+        {
+          "label": "Familienstand"
+        },
+        {
+          "label": "Geschlecht"
+        },
+        {
+          "label": "Geburtsdatum"
+        },
+        {
+          "label": "Geburtsort (Gemeinde, Landkreis; falls Ausland: auch Staat angeben)"
+        },
+        {
+          "label": "Staatsangehörigkeit(en)"
+        },
+        {
+          "label": "Religion"
+        },
+        {
+          "label": "Datum und Ort der Eheschließung/Begründung der Lebenspartnerschaft"
+        }
+      ]
+    },
+    {
+      "id": "papers",
+      "name": "Representatives and signature",
+      "fields": [
+        {
+          "label": "Gesetzliche Vertreter (Vor- und Familienname, Doktorgrad, Geburtsdatum, ggf. Bezeichnung der juristischen Person, Anschrift)"
+        },
+        {
+          "label": "Ort, Datum / Unterschrift der meldepflichtigen/bevollmächtigten Person"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Abmeldung",
+    "Meldebehörde",
+    "Auszug",
+    "Abmeldebestätigung",
+    "Bundesgebiet",
+    "Alleinige Wohnung",
+    "Hauptwohnung",
+    "Nebenwohnung",
+    "Rufname",
+    "Öffentlich-rechtliche Religionsgesellschaft",
+    "Vollmacht",
+    "Anmeldung",
+    "Rundfunkbeitrag"
+  ]
+}

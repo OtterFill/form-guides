@@ -1,0 +1,298 @@
+{
+  "slug": "i-130",
+  "form": "I-130",
+  "issuer": "U.S. Citizenship and Immigration Services (USCIS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.uscis.gov/i-130",
+  "edition": "Edition 04/01/24",
+  "lastChecked": "2026-10-26",
+  "summary": "Form I-130, “Petition for Alien Relative”, is the form a U.S. citizen or lawful permanent resident files with USCIS to prove a family relationship with a relative who wants to immigrate. You, the petitioner, fill it in about yourself and your relative, the beneficiary; it is the first step towards your relative’s green card, not the green card itself.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/i-130?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "relationship",
+      "name": "Part 1: Relationship",
+      "fields": [
+        {
+          "ref": "Part 1, 1.",
+          "label": "I am filing this petition for my (Select only one box): Spouse / Parent / Brother/Sister / Child"
+        },
+        {
+          "ref": "Part 1, 2.",
+          "label": "If you are filing this petition for your child or parent, select the box that describes your relationship (Select only one box): Child was born to parents who were married to each other at the time of the child's birth / Child was born to parents who were not married to each other at the time of the child's birth / Stepchild/Stepparent / Child was adopted (not an Orphan or Hague Convention adoptee)"
+        },
+        {
+          "ref": "Part 1, 3.–4.",
+          "label": "If the beneficiary is your brother/sister, are you related by adoption? / Did you gain lawful permanent resident status or citizenship through adoption?"
+        }
+      ]
+    },
+    {
+      "id": "petitioner",
+      "name": "Part 2: Information about you (petitioner): name, birth and addresses",
+      "fields": [
+        {
+          "ref": "Part 2, 1.–3.",
+          "label": "Alien Registration Number (A-Number) (if any) / USCIS Online Account Number (if any) / U.S. Social Security Number (if any)"
+        },
+        {
+          "ref": "Part 2, 4.a.–5.c.",
+          "label": "Your Full Name / Other Names Used (if any)"
+        },
+        {
+          "ref": "Part 2, 6.–9.",
+          "label": "City/Town/Village of Birth / Country of Birth / Date of Birth (mm/dd/yyyy) / Sex"
+        },
+        {
+          "ref": "Part 2, 10.a.–11.",
+          "label": "Mailing Address / Is your current mailing address the same as your physical address?"
+        },
+        {
+          "ref": "Part 2, 12.a.–15.b.",
+          "label": "Address History: Provide your physical addresses for the last five years, whether inside or outside the United States."
+        }
+      ]
+    },
+    {
+      "id": "petitionerFamily",
+      "name": "Part 2: Your marriages and your parents",
+      "fields": [
+        {
+          "ref": "Part 2, 16.–19.d.",
+          "label": "How many times have you been married? / Current Marital Status / Date of Current Marriage (if currently married) / Place of Your Current Marriage (if married)"
+        },
+        {
+          "ref": "Part 2, 20.a.–23.",
+          "label": "Names of All Your Spouses (if any) / Date Marriage Ended (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 2, 24.a.–35.",
+          "label": "Information About Your Parents: Full Name / Date of Birth / Sex / Country of Birth / City/Town/Village of Residence / Country of Residence"
+        }
+      ]
+    },
+    {
+      "id": "petitionerStatus",
+      "name": "Part 2: Your status and employment",
+      "fields": [
+        {
+          "ref": "Part 2, 36.",
+          "label": "I am a (Select only one box): U.S. Citizen / Lawful Permanent Resident"
+        },
+        {
+          "ref": "Part 2, 37.–39.c.",
+          "label": "My citizenship was acquired through (Select only one box): Birth in the United States / Naturalization / Parents / Have you obtained a Certificate of Naturalization or a Certificate of Citizenship? / Certificate Number / Place of Issuance / Date of Issuance"
+        },
+        {
+          "ref": "Part 2, 40.a.–41.",
+          "label": "Class of Admission / Date of Admission / Place of Admission / Did you gain lawful permanent resident status through marriage to a U.S. citizen or lawful permanent resident?"
+        },
+        {
+          "ref": "Part 2, 42.–49.b.",
+          "label": "Employment History: Name of Employer/Company / Your Occupation / Date From / Date To"
+        }
+      ]
+    },
+    {
+      "id": "biographic",
+      "name": "Part 3: Biographic information (about you, the petitioner)",
+      "fields": [
+        {
+          "ref": "Part 3, 1.–2.",
+          "label": "Ethnicity (Select only one box) / Race (Select all applicable boxes)"
+        },
+        {
+          "ref": "Part 3, 3.–4.",
+          "label": "Height (Feet, Inches) / Weight (Pounds)"
+        },
+        {
+          "ref": "Part 3, 5.–6.",
+          "label": "Eye Color (Select only one box) / Hair Color (Select only one box)"
+        }
+      ]
+    },
+    {
+      "id": "beneficiary",
+      "name": "Part 4: Information about the beneficiary: name, birth and addresses",
+      "fields": [
+        {
+          "ref": "Part 4, 1.–3.",
+          "label": "Alien Registration Number (A-Number) (if any) / USCIS Online Account Number (if any) / U.S. Social Security Number (if any)"
+        },
+        {
+          "ref": "Part 4, 4.a.–5.c.",
+          "label": "Beneficiary's Full Name / Other Names Used (if any)"
+        },
+        {
+          "ref": "Part 4, 6.–9.",
+          "label": "City/Town/Village of Birth / Country of Birth / Date of Birth (mm/dd/yyyy) / Sex"
+        },
+        {
+          "ref": "Part 4, 10.",
+          "label": "Has anyone else ever filed a petition for the beneficiary? Yes / No / Unknown"
+        },
+        {
+          "ref": "Part 4, 11.a.–11.h.",
+          "label": "Beneficiary's Physical Address"
+        },
+        {
+          "ref": "Part 4, 12.a.–13.f.",
+          "label": "Provide the address in the United States where the beneficiary intends to live, if different from Item Numbers 11.a. - 11.h. / Provide the beneficiary's address outside the United States, if different from Item Numbers 11.a. - 11.h."
+        },
+        {
+          "ref": "Part 4, 14.–16.",
+          "label": "Daytime Telephone Number (if any) / Mobile Telephone Number (if any) / Email Address (if any)"
+        }
+      ]
+    },
+    {
+      "id": "beneficiaryFamily",
+      "name": "Part 4: The beneficiary’s marriages and family",
+      "fields": [
+        {
+          "ref": "Part 4, 17.–20.d.",
+          "label": "How many times has the beneficiary been married? / Current Marital Status / Date of Current Marriage (if currently married) / Place of Beneficiary's Current Marriage (if married)"
+        },
+        {
+          "ref": "Part 4, 21.a.–24.",
+          "label": "Names of Beneficiary's Spouses (if any) / Date Marriage Ended (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 4, 25.a.–44.",
+          "label": "Information About Beneficiary's Family: Provide information about the beneficiary's spouse and children. / Relationship / Date of Birth / Country of Birth"
+        }
+      ]
+    },
+    {
+      "id": "beneficiaryHistory",
+      "name": "Part 4: Entry, passport, employment, proceedings and native script",
+      "fields": [
+        {
+          "ref": "Part 4, 45.–46.d.",
+          "label": "Was the beneficiary EVER in the United States? / He or she arrived as a (Class of Admission) / Form I-94 Arrival-Departure Record Number / Date of Arrival / Date authorized stay expired, or will expire, as shown on Form I-94 or Form I-95 (mm/dd/yyyy) or type or print \"D/S\" for Duration of Status"
+        },
+        {
+          "ref": "Part 4, 47.–50.",
+          "label": "Passport Number / Travel Document Number / Country of Issuance for Passport or Travel Document / Expiration Date for Passport or Travel Document"
+        },
+        {
+          "ref": "Part 4, 51.a.–52.",
+          "label": "Beneficiary's Employment Information: Name of Current Employer (if applicable) / Date Employment Began"
+        },
+        {
+          "ref": "Part 4, 53.–56.",
+          "label": "Was the beneficiary EVER in immigration proceedings? / Removal / Exclusion/Deportation / Rescission / Other Judicial Proceedings / City or Town / State / Date"
+        },
+        {
+          "ref": "Part 4, 57.a.–58.f.",
+          "label": "If the beneficiary's native written language does not use Roman letters, type or print his or her name and foreign address in their native written language."
+        },
+        {
+          "ref": "Part 4, 59.a.–60.b.",
+          "label": "If filing for your spouse, provide the last address at which you physically lived together. If you never lived together, type or print, \"Never lived together\" in Item Number 59.a."
+        }
+      ]
+    },
+    {
+      "id": "processing",
+      "name": "Part 4: Where the beneficiary will apply (answer 61 or 62, never both)",
+      "fields": [
+        {
+          "ref": "Part 4, 61.a.–61.b.",
+          "label": "The beneficiary is in the United States and will apply for adjustment of status to that of a lawful permanent resident at the U.S. Citizenship and Immigration Services (USCIS) office in: City or Town / State"
+        },
+        {
+          "ref": "Part 4, 62.a.–62.c.",
+          "label": "The beneficiary will not apply for adjustment of status in the United States, but he or she will apply for an immigrant visa abroad at the U.S. Embassy or U.S. Consulate in: City or Town / Province / Country"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Part 5: Other information",
+      "fields": [
+        {
+          "ref": "Part 5, 1.–5.",
+          "label": "Have you EVER previously filed a petition for this beneficiary or any other alien? / Date Filed / Result (for example, approved, denied, withdrawn)"
+        },
+        {
+          "ref": "Part 5, 6.a.–9.",
+          "label": "If you are also submitting separate petitions for other relatives, provide the names of and your relationship to each relative."
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "Parts 6 to 9: Statement, signature, interpreter, preparer and extra space",
+      "fields": [
+        {
+          "ref": "Part 6, 1.a.–2.",
+          "label": "Petitioner's Statement: I can read and understand English … / The interpreter named in Part 7. read to me every question … / At my request, the preparer named in Part 8. prepared this petition for me …"
+        },
+        {
+          "ref": "Part 6, 3.–5.",
+          "label": "Petitioner's Daytime Telephone Number / Petitioner's Mobile Telephone Number (if any) / Petitioner's Email Address (if any)"
+        },
+        {
+          "ref": "Part 6, 6.a.–6.b.",
+          "label": "Petitioner's Signature (sign in ink) / Date of Signature (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 7",
+          "label": "Interpreter's Contact Information, Certification, and Signature"
+        },
+        {
+          "ref": "Part 8",
+          "label": "Contact Information, Declaration, and Signature of the Person Preparing this Petition, if Other Than the Petitioner"
+        },
+        {
+          "ref": "Part 9",
+          "label": "Additional Information"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Petitioner",
+    "Beneficiary",
+    "Immediate Relative",
+    "Family Preference Category (F1, F2A, F2B, F3, F4)",
+    "Priority Date",
+    "Derivative Beneficiary",
+    "Form I-130A, Supplemental Information for Spouse Beneficiary",
+    "Alien Registration Number (A-Number)",
+    "Form I-94, Arrival/Departure Record",
+    "Adjustment of Status",
+    "Consular Processing",
+    "National Visa Center (NVC)",
+    "Bona Fide Marriage",
+    "Conditional Permanent Resident Status",
+    "EVER",
+    "Biometric Services Appointment"
+  ]
+}

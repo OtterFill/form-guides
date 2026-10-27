@@ -1,0 +1,393 @@
+{
+  "slug": "i-485",
+  "form": "I-485",
+  "issuer": "U.S. Citizenship and Immigration Services (USCIS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.uscis.gov/i-485",
+  "edition": "Edition 09/18/26",
+  "lastChecked": "2026-10-26",
+  "summary": "Form I-485, “Application to Register Permanent Residence or Adjust Status”, is the form you file with USCIS to get a green card without leaving the United States. You fill it in yourself if you are in the United States and qualify in an immigrant category, usually through a family member, an employer, asylum or refugee status.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/i-485?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "about",
+      "name": "Part 1: Information about you (Items 1 to 9)",
+      "fields": [
+        {
+          "ref": "Part 1, 1.",
+          "label": "Your Current Legal Name (Do not provide a nickname)"
+        },
+        {
+          "ref": "Part 1, 2.",
+          "label": "Other Names You Have Used Since Birth (if applicable)"
+        },
+        {
+          "ref": "Part 1, 3.",
+          "label": "Date of Birth (mm/dd/yyyy) / Have you ever used any other date of birth?"
+        },
+        {
+          "ref": "Part 1, 4.–5.",
+          "label": "Do you have an Alien Registration Number (A-Number)? / Have you ever used, or been assigned, any other A-Number?"
+        },
+        {
+          "ref": "Part 1, 6.",
+          "label": "Sex: Male / Female"
+        },
+        {
+          "ref": "Part 1, 7.–8.",
+          "label": "Place of Birth: City or Town of Birth / Country of Birth / Country of Citizenship or Nationality"
+        },
+        {
+          "ref": "Part 1, 9.",
+          "label": "USCIS Online Account Number (if any)"
+        }
+      ]
+    },
+    {
+      "id": "arrival",
+      "name": "Part 1: Your last arrival and current status (Items 10 to 17)",
+      "fields": [
+        {
+          "ref": "Part 1, 10.",
+          "label": "Recent Immigration History: Passport or Travel Document Number Used at Last Arrival / Nonimmigrant Visa Number Used During Most Recent Arrival (if any) / Place and Date of Last Arrival into the United States"
+        },
+        {
+          "ref": "Part 1, 11.",
+          "label": "When I last arrived in the United States: I was inspected at a Port of Entry and admitted as … / I was inspected at a Port of Entry and paroled as … / I came into the United States without admission or parole. / Other:"
+        },
+        {
+          "ref": "Part 1, 12.",
+          "label": "If you were issued a Form I-94 Arrival/Departure Record, provide the information from your most recent Form I-94 below"
+        },
+        {
+          "ref": "Part 1, 13.–15.",
+          "label": "Was your last arrival the first time you were physically present in the United States? / What is your current immigration status (if it has changed since your last arrival)? / Expiration Date of Current Immigration Status (mm/dd/yyyy) or Type or Print “D/S” for Duration of Status"
+        },
+        {
+          "ref": "Part 1, 16.–17.",
+          "label": "Have you ever been issued an “alien crewman” visa? / Did you last arrive in the United States to join a vessel as a seaman or crewman, or while serving in any capacity aboard a vessel or aircraft?"
+        }
+      ]
+    },
+    {
+      "id": "address",
+      "name": "Part 1: Addresses and Social Security (Items 18 and 19)",
+      "fields": [
+        {
+          "ref": "Part 1, 18.",
+          "label": "Current U.S. Physical Address / Date You First Resided at This Address / Is this your current mailing address? / Current Mailing Address (Safe or Alternate Mailing Address, if applicable)"
+        },
+        {
+          "ref": "Part 1, 18.",
+          "label": "Have you resided at your current address for at least 5 years? / Prior Address / Most Recent Address Outside the United States"
+        },
+        {
+          "ref": "Part 1, 19.",
+          "label": "Social Security Card: Has the Social Security Administration (SSA) ever officially issued a Social Security card to you? / Do you want the SSA to issue you a Social Security card? / Consent for Disclosure"
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "name": "Part 2: Application type or filing category",
+      "fields": [
+        {
+          "ref": "Part 2, 1.",
+          "label": "Are you filing for adjustment of status with the Executive Office for Immigration Review (EOIR) while in removal, exclusion, rescission, or deportation proceedings?"
+        },
+        {
+          "ref": "Part 2, 2.",
+          "label": "Receipt Number of Underlying Petition (if any) / Priority Date from Underlying Petition (if any)"
+        },
+        {
+          "ref": "Part 2, 2.",
+          "label": "I am filing this Form I-485 as a (select only one box): Principal Applicant / Derivative Applicant"
+        },
+        {
+          "ref": "Part 2, 3.a.",
+          "label": "Family-based"
+        },
+        {
+          "ref": "Part 2, 3.b.",
+          "label": "Employment-based: Alien Investor, Form I-526 or Form I-526E / Alien Workers, Form I-140 / Did a relative file the associated Form I-140 for you …?"
+        },
+        {
+          "ref": "Part 2, 3.c.",
+          "label": "Special Immigrant"
+        },
+        {
+          "ref": "Part 2, 3.d.–3.e.",
+          "label": "Asylee or Refugee / Human Trafficking Victim or Crime Victim"
+        },
+        {
+          "ref": "Part 2, 3.f.–3.g.",
+          "label": "Special Programs Based on Certain Public Laws / Additional Options"
+        },
+        {
+          "ref": "Part 2, 4.",
+          "label": "… are you applying for adjustment based on INA section 245(i)?"
+        },
+        {
+          "ref": "Part 2, 5.",
+          "label": "Are you 21 years of age or older and applying for adjustment based on classification as a child, under the provisions of the Child Status Protection Act (CSPA)?"
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "name": "Part 3: Exemption from the affidavit of support",
+      "fields": [
+        {
+          "ref": "Part 3, 1.a.–1.f.",
+          "label": "I am requesting an exemption from submitting an Affidavit of Support Under Section 213A of the INA (Form I-864 or Form I-864EZ) because (select only one)"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Part 4: Additional information about you",
+      "fields": [
+        {
+          "ref": "Part 4, 1.–4.",
+          "label": "Have you ever applied for an immigrant visa to obtain permanent resident status at a U.S. Embassy or U.S. Consulate abroad? / Location of U.S. Embassy or U.S. Consulate / Decision / Date of Decision"
+        },
+        {
+          "ref": "Part 4, 5.–6.",
+          "label": "Have you previously applied for permanent residence while in the United States? / Have you EVER held lawful permanent resident status which was later rescinded under INA section 246?"
+        },
+        {
+          "ref": "Part 4, 7.–8.",
+          "label": "Employment and Educational History / Provide your most recent employer or school outside of the United States (if not already listed above)."
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Parts 5 to 7: Parents, marital history and children",
+      "fields": [
+        {
+          "ref": "Part 5, 1.–8.",
+          "label": "Information About Your Parent 1: Parent 1's Legal Name / Parent 1's Name at Birth (if different than above) / Date of Birth / Country of Birth / Information About Your Parent 2"
+        },
+        {
+          "ref": "Part 6, 1.–3.",
+          "label": "What is your current marital status? / If you are married, is your spouse a current member of the U.S. armed forces or U.S. Coast Guard? / How many times have you been married …?"
+        },
+        {
+          "ref": "Part 6, 4.–10.",
+          "label": "Information About Your Current Marriage (including if you are legally separated) / Is your current spouse applying with you?"
+        },
+        {
+          "ref": "Part 6, 11.–18.",
+          "label": "Information About Prior Marriages (if any) / How Marriage Ended with Prior Spouse"
+        },
+        {
+          "ref": "Part 7, 1.–3.",
+          "label": "Indicate the total number of ALL living children anywhere in the world (including adult sons and daughters) that you have. / Is this child also applying now on a separate Form I-485?"
+        }
+      ]
+    },
+    {
+      "id": "biographic",
+      "name": "Part 8: Biographic information",
+      "fields": [
+        {
+          "ref": "Part 8, 1.–2.",
+          "label": "Ethnicity (Select only one box) / Race (Select all applicable boxes)"
+        },
+        {
+          "ref": "Part 8, 3.–4.",
+          "label": "Height (Feet, Inches) / Weight (Pounds)"
+        },
+        {
+          "ref": "Part 8, 5.–6.",
+          "label": "Eye Color (Select only one box) / Hair Color (Select only one box)"
+        }
+      ]
+    },
+    {
+      "id": "background",
+      "name": "Part 9: Organizations and immigration history (Items 1 to 21)",
+      "fields": [
+        {
+          "ref": "Part 9, 1.–9.",
+          "label": "Have you EVER been a member of, involved in, or in any way associated with any organization, association, fund, foundation, party, club, society, or similar group in the United States or in any other location in the world?"
+        },
+        {
+          "ref": "Part 9, 10.–13.",
+          "label": "Have you EVER been denied admission to the United States? / … denied a visa … / … worked in the United States without authorization? / … violated the terms or conditions of your nonimmigrant status?"
+        },
+        {
+          "ref": "Part 9, 14.–18.",
+          "label": "Are you presently or have you EVER been in removal, exclusion, rescission, or deportation proceedings …? / … final order … / … reinstated? / … voluntary departure … / … relief or protection from removal …?"
+        },
+        {
+          "ref": "Part 9, 19.–21.",
+          "label": "Have you EVER been a J nonimmigrant exchange visitor who was subject to the two-year foreign residence requirement? / … complied … / … waiver …?"
+        }
+      ]
+    },
+    {
+      "id": "crimes",
+      "name": "Part 9: Criminal acts and violations (Items 22 to 41)",
+      "fields": [
+        {
+          "ref": "Part 9, 22.–25.",
+          "label": "Have you EVER been arrested, cited, charged, or permitted to participate in a diversion program … or detained …? / … committed a crime of any kind …? / … pled guilty to or been convicted …? / … ordered punished by a judge …?"
+        },
+        {
+          "ref": "Part 9, 26.–29.",
+          "label": "Have you EVER violated (or attempted or conspired to violate) any controlled substance law …? / … trafficked … / Are you the spouse, son, or daughter of an alien who illicitly trafficked …?"
+        },
+        {
+          "ref": "Part 9, 30.–35.b.",
+          "label": "… prostitution … / … illegal gambling or any other form of commercialized vice … / … exercised immunity (diplomatic or otherwise) …? / Have you EVER served as a foreign government official? / … violations of religious freedoms?"
+        },
+        {
+          "ref": "Part 9, 36.–41.",
+          "label": "… trafficking of another person for commercial sex acts (sex trafficking)? / … involuntary servitude, peonage, debt bondage, or slavery? / … money laundering …?"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "Part 9: Security and related (Items 42 to 55)",
+      "fields": [
+        {
+          "ref": "Part 9, 42.a.–46.",
+          "label": "Security and Related: Do you intend to: … espionage … sabotage … export … overthrowing the U.S. Government … / Have you EVER: Received any weapons training, paramilitary training, or other military-type training? / … kidnapping, assassination, or hijacking …"
+        },
+        {
+          "ref": "Part 9, 47.–55.",
+          "label": "… sold, provided, or transported weapons …? / … prison, jail, prison camp, detention facility …? / … any military or police unit? / … any armed group …? / … the Communist Party or any totalitarian party …? / Torture? Genocide? … / … any person under 15 years of age …"
+        }
+      ]
+    },
+    {
+      "id": "publicCharge",
+      "name": "Part 9: Public charge (Items 56 to 64)",
+      "fields": [
+        {
+          "ref": "Part 9, 56.",
+          "label": "I am exempt from the public charge ground of inadmissibility because I am a/an (select only one box) / I do not fall under any of the exempt categories listed above and will complete Item Numbers 57. - 64."
+        },
+        {
+          "ref": "Part 9, 57.–60.",
+          "label": "Describe your family status (for example, your household size). / Indicate your annual household income. / Identify the total value of your household assets. / Identify the total value of your household liabilities …"
+        },
+        {
+          "ref": "Part 9, 61.–62.",
+          "label": "What is the highest level of education you have completed? / List your skills (for example, certifications, licenses, skills obtained through work experience, and educational certificates)."
+        },
+        {
+          "ref": "Part 9, 63.–64.",
+          "label": "Have you ever received any means-tested public benefit? / Means-Tested Public Benefit Received / Start Date / End Date / Dollar Amount (if applicable) / Reason"
+        }
+      ]
+    },
+    {
+      "id": "violations",
+      "name": "Part 9: Immigration violations and other conduct (Items 65 to 84)",
+      "fields": [
+        {
+          "ref": "Part 9, 65.–71.",
+          "label": "Illegal Entries and Other Immigration Violations: … failed or refused to attend … any removal proceeding …? / … altered, fraudulent, or counterfeit documentation …? / … lied about, concealed, or misrepresented …? / … falsely claimed to be a U.S. citizen …? / … stowaway …? / … alien smuggling …? / … INA section 274C …?"
+        },
+        {
+          "ref": "Part 9, 72.–76.b.",
+          "label": "Removal, Unlawful Presence, or Illegal Reentry After Previous Immigration Violations: … excluded, deported, or removed …? / … entered the United States without being inspected and admitted or paroled? / Since April 1, 1997, have you been unlawfully present in the United States? / … reentered …"
+        },
+        {
+          "ref": "Part 9, 77.–81.",
+          "label": "Miscellaneous Conduct: … polygamy …? / … accompanying an alien who is inadmissible …? / … withholding custody of a U.S. citizen child …? / … voted in violation of any … law …? / … renounced U.S. citizenship to avoid being taxed …?"
+        },
+        {
+          "ref": "Part 9, 82.a.–84.",
+          "label": "Have you EVER: Applied for exemption or discharge from training or service in the U.S. armed forces … on the ground that you are an alien? / … convicted of desertion …? / … left or remained outside the United States to avoid or evade training or service in the U.S. armed forces …?"
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "Parts 10 to 12 and 14: Contact, signature, interpreter, preparer and extra space",
+      "fields": [
+        {
+          "ref": "Part 10, 1.–3.",
+          "label": "Applicant's Daytime Telephone Number / Applicant's Mobile Telephone Number (if any) / Applicant's Email Address (if any)"
+        },
+        {
+          "ref": "Part 10, 4.",
+          "label": "Applicant's Signature / Date of Signature (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 11",
+          "label": "Interpreter's Contact Information, Certification, and Signature"
+        },
+        {
+          "ref": "Part 12",
+          "label": "Contact Information, Certification, and Signature of the Person Preparing this Application, if Other Than the Applicant"
+        },
+        {
+          "ref": "Part 14",
+          "label": "Additional Information"
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "name": "Part 13: Completed at the interview",
+      "fields": [
+        {
+          "ref": "Part 13",
+          "label": "Signature at Interview"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Adjustment of Status",
+    "Lawful Permanent Resident (Green Card)",
+    "Alien Registration Number (A-Number)",
+    "USCIS Online Account Number",
+    "Principal Applicant / Derivative Applicant",
+    "Underlying Petition",
+    "Priority Date",
+    "Form I-94 Arrival/Departure Record",
+    "D/S (Duration of Status)",
+    "Inspected and admitted / Paroled",
+    "Child Status Protection Act (CSPA)",
+    "INA section 245(i)",
+    "Affidavit of Support Under Section 213A of the INA (Form I-864)",
+    "Public Charge Ground of Inadmissibility",
+    "Means-Tested Public Benefit",
+    "Unlawfully present",
+    "EVER",
+    "Safe or Alternate Mailing Address",
+    "Executive Office for Immigration Review (EOIR)"
+  ]
+}

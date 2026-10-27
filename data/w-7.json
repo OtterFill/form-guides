@@ -1,0 +1,234 @@
+{
+  "slug": "w-7",
+  "form": "W-7",
+  "issuer": "Internal Revenue Service (IRS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.irs.gov/forms-pubs/about-form-w-7",
+  "edition": "Rev. December 2024",
+  "lastChecked": "2026-10-26",
+  "summary": "Form W-7 is the IRS application for an Individual Taxpayer Identification Number (ITIN), the 9-digit U.S. tax number for people who need one but cannot get a Social Security number, and for renewing an ITIN that has expired. Each person applying, including a spouse or child, fills in their own form, usually attached to the U.S. federal tax return that needs the number.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/w-7?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "type",
+      "name": "Application type",
+      "fields": [
+        {
+          "label": "Application type (check one box): Apply for a new ITIN / Renew an existing ITIN"
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "name": "Reason you’re submitting Form W-7 (boxes a to h)",
+      "fields": [
+        {
+          "ref": "Box a",
+          "label": "Nonresident alien required to get an ITIN to claim tax treaty benefit (you must also check and complete box h (see instructions))"
+        },
+        {
+          "ref": "Box b",
+          "label": "Nonresident alien filing a U.S. federal tax return"
+        },
+        {
+          "ref": "Box c",
+          "label": "U.S. resident alien (based on days present in the United States) filing a U.S. federal tax return"
+        },
+        {
+          "ref": "Box d",
+          "label": "Dependent of U.S. citizen/resident alien"
+        },
+        {
+          "ref": "Box e",
+          "label": "Spouse of U.S. citizen/resident alien"
+        },
+        {
+          "ref": "Box f",
+          "label": "Nonresident alien student, professor, or researcher filing a U.S. federal tax return or claiming an exception"
+        },
+        {
+          "ref": "Box g",
+          "label": "Dependent/spouse of a nonresident alien holding a U.S. visa"
+        },
+        {
+          "ref": "Box h",
+          "label": "Other (see instructions)"
+        },
+        {
+          "ref": "Box d",
+          "label": "If d, enter relationship to U.S. citizen/resident alien (see instructions)"
+        },
+        {
+          "ref": "Boxes d and e",
+          "label": "If d or e, enter name and SSN/ITIN of U.S. citizen/resident alien (see instructions)"
+        },
+        {
+          "ref": "Boxes a and f",
+          "label": "Additional information for a and f: Enter treaty country and treaty article number"
+        }
+      ]
+    },
+    {
+      "id": "name",
+      "name": "Name",
+      "fields": [
+        {
+          "ref": "Line 1a",
+          "label": "First name / Middle name / Last name"
+        },
+        {
+          "ref": "Line 1b",
+          "label": "Name at birth if different: First name / Middle name / Last name"
+        }
+      ]
+    },
+    {
+      "id": "address",
+      "name": "Mailing and foreign addresses",
+      "fields": [
+        {
+          "ref": "Line 2",
+          "label": "Applicant’s Mailing Address: Street address, apartment number, or rural route number. If you have a P.O. box, see separate instructions. City or town, state or province, and country."
+        },
+        {
+          "ref": "Line 3",
+          "label": "Foreign (non-U.S.) Address: Street address, apartment number, or rural route number. Don’t use a P.O. box number. City or town, state or province, and country."
+        }
+      ]
+    },
+    {
+      "id": "birth",
+      "name": "Birth information",
+      "fields": [
+        {
+          "ref": "Line 4",
+          "label": "Date of birth (month / day / year)"
+        },
+        {
+          "ref": "Line 4",
+          "label": "Country of birth"
+        },
+        {
+          "ref": "Line 4",
+          "label": "City and state or province (optional)"
+        },
+        {
+          "ref": "Line 5",
+          "label": "Male / Female"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other information",
+      "fields": [
+        {
+          "ref": "Line 6a",
+          "label": "Country(ies) of citizenship"
+        },
+        {
+          "ref": "Line 6b",
+          "label": "Foreign tax I.D. number (if any)"
+        },
+        {
+          "ref": "Line 6c",
+          "label": "Type of U.S. visa (if any), number, and expiration date"
+        },
+        {
+          "ref": "Line 6d",
+          "label": "Identification document(s) submitted: Passport / Driver’s license/State I.D. / USCIS documentation / Other"
+        },
+        {
+          "ref": "Line 6d",
+          "label": "Issued by: / Number: / Exp. date:"
+        },
+        {
+          "ref": "Line 6d",
+          "label": "Date of entry into the United States (MM/DD/YYYY)"
+        },
+        {
+          "ref": "Line 6e",
+          "label": "Have you previously received an ITIN or an Internal Revenue Service Number (IRSN)? No/Don’t know / Yes"
+        },
+        {
+          "ref": "Line 6f",
+          "label": "Enter ITIN and/or IRSN"
+        },
+        {
+          "ref": "Line 6f",
+          "label": "and name under which it was issued"
+        },
+        {
+          "ref": "Line 6g",
+          "label": "Name of college/university or company (see instructions)"
+        },
+        {
+          "ref": "Line 6g",
+          "label": "City and state / Length of stay"
+        }
+      ]
+    },
+    {
+      "id": "sign",
+      "name": "Signature and acceptance agent",
+      "fields": [
+        {
+          "label": "Signature of applicant (if delegate, see instructions)"
+        },
+        {
+          "label": "Date (month / day / year)"
+        },
+        {
+          "label": "Phone number"
+        },
+        {
+          "label": "Name of delegate, if applicable (type or print)"
+        },
+        {
+          "label": "Delegate’s relationship to applicant: Parent / Power of attorney / Court-appointed guardian"
+        },
+        {
+          "label": "Acceptance Agent’s Use ONLY"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "IRS individual taxpayer identification number (ITIN)",
+    "U.S. social security number (SSN)",
+    "Internal Revenue Service Number (IRSN)",
+    "Nonresident alien",
+    "U.S. resident alien",
+    "Dependent",
+    "Tax treaty benefit",
+    "Exceptions (see instructions)",
+    "Acceptance agent",
+    "Delegate",
+    "Penalties of perjury"
+  ]
+}

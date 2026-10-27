@@ -1,0 +1,259 @@
+{
+  "slug": "i-90",
+  "form": "I-90",
+  "issuer": "U.S. Citizenship and Immigration Services (USCIS)",
+  "formLanguage": "en",
+  "officialUrl": "https://www.uscis.gov/i-90",
+  "edition": "Edition 01/20/25",
+  "lastChecked": "2026-10-26",
+  "summary": "Form I-90, “Application to Replace Permanent Resident Card”, is the form you file with USCIS to renew a green card that has expired or will expire within six months, or to replace one that was lost, stolen, damaged, never received or has wrong information. You fill it in yourself if you are a permanent resident; a parent or legal guardian may sign for a child under 14.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/i-90?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "about",
+      "name": "Part 1: Information about you",
+      "fields": [
+        {
+          "ref": "Part 1, 1.",
+          "label": "Alien Registration Number (A-Number)"
+        },
+        {
+          "ref": "Part 1, 2.",
+          "label": "USCIS Online Account Number (if any)"
+        },
+        {
+          "ref": "Part 1, 3.a.–3.c.",
+          "label": "Your Full Name: Family Name (Last Name) / Given Name (First Name) / Middle Name"
+        },
+        {
+          "ref": "Part 1, 4.",
+          "label": "Has your name legally changed since the issuance of your Permanent Resident Card? Yes / No / N/A - I never received my previous card."
+        },
+        {
+          "ref": "Part 1, 5.a.–5.c.",
+          "label": "Provide your name exactly as it is printed on your current Permanent Resident Card."
+        },
+        {
+          "ref": "Part 1, 6.a.–6.i.",
+          "label": "Mailing Address: In Care Of Name / Street Number and Name / Apt. Ste. Flr. / City or Town / State / ZIP Code / Province / Postal Code / Country"
+        },
+        {
+          "ref": "Part 1, 7.a.–7.h.",
+          "label": "Physical Address: Provide this information only if different than mailing address."
+        }
+      ]
+    },
+    {
+      "id": "additional",
+      "name": "Part 1: Additional information",
+      "fields": [
+        {
+          "ref": "Part 1, 8.",
+          "label": "Sex: Male / Female"
+        },
+        {
+          "ref": "Part 1, 9.",
+          "label": "Date of Birth (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 1, 10.–11.",
+          "label": "City/Town/Village of Birth / Country of Birth"
+        },
+        {
+          "ref": "Part 1, 12.–13.",
+          "label": "Mother's Name: Given Name (First Name) / Father's Name: Given Name (First Name)"
+        },
+        {
+          "ref": "Part 1, 14.",
+          "label": "Class of Admission"
+        },
+        {
+          "ref": "Part 1, 15.",
+          "label": "Date of Admission (mm/dd/yyyy)"
+        },
+        {
+          "ref": "Part 1, 16.",
+          "label": "U.S. Social Security Number (if any)"
+        }
+      ]
+    },
+    {
+      "id": "type",
+      "name": "Part 2: Application type and reason for application (select only one box)",
+      "fields": [
+        {
+          "ref": "Part 2, 1.a.–1.c.",
+          "label": "My status is (Select only one box): Lawful Permanent Resident / Permanent Resident - In Commuter Status / Conditional Permanent Resident"
+        },
+        {
+          "ref": "Part 2, 2.a.",
+          "label": "My previous card has been lost, stolen, or destroyed."
+        },
+        {
+          "ref": "Part 2, 2.b.",
+          "label": "My previous card was issued but never received."
+        },
+        {
+          "ref": "Part 2, 2.c.",
+          "label": "My existing card has been mutilated."
+        },
+        {
+          "ref": "Part 2, 2.d.",
+          "label": "My existing card has incorrect data because of Department of Homeland Security (DHS) error."
+        },
+        {
+          "ref": "Part 2, 2.e.",
+          "label": "My name or other biographic information has been legally changed since issuance of my existing card."
+        },
+        {
+          "ref": "Part 2, 2.f.",
+          "label": "My existing card has already expired or will expire within six months."
+        },
+        {
+          "ref": "Part 2, 2.g.1.–2.g.2.",
+          "label": "I have reached my 14th birthday and am registering as required. My existing card will expire AFTER / BEFORE my 16th birthday."
+        },
+        {
+          "ref": "Part 2, 2.h.1.–2.h.2.",
+          "label": "I am a permanent resident who is taking up commuter status. / My Port-of-Entry (POE) into the United States will be / I am a commuter who is taking up actual residence in the United States."
+        },
+        {
+          "ref": "Part 2, 2.i.",
+          "label": "I have been automatically converted to lawful permanent resident status."
+        },
+        {
+          "ref": "Part 2, 2.j.",
+          "label": "I have a prior edition of the Alien Registration Card, or I am applying to replace my current Permanent Resident Card for a reason that is not specified above."
+        },
+        {
+          "ref": "Part 2, 3.a.–3.e.",
+          "label": "Section B. (To be used only by a conditional permanent resident.)"
+        }
+      ]
+    },
+    {
+      "id": "processing",
+      "name": "Part 3: Processing information",
+      "fields": [
+        {
+          "ref": "Part 3, 1.",
+          "label": "Location where you applied for an immigrant visa or adjustment of status"
+        },
+        {
+          "ref": "Part 3, 2.",
+          "label": "Location where your immigrant visa was issued or USCIS office where you were granted adjustment of status"
+        },
+        {
+          "ref": "Part 3, 3.a.–3.a.1.",
+          "label": "Destination in the United States at time of admission / Port-of-Entry where admitted to the United States: City or Town and State"
+        },
+        {
+          "ref": "Part 3, 4.",
+          "label": "Have you ever been in exclusion, deportation, or removal proceedings or ordered removed from the United States?"
+        },
+        {
+          "ref": "Part 3, 5.",
+          "label": "Since you were granted permanent residence, have you ever filed Form I-407, Abandonment by Alien of Status as Lawful Permanent Resident, or otherwise been determined to have abandoned your status?"
+        }
+      ]
+    },
+    {
+      "id": "biographic",
+      "name": "Part 3: Biographic information",
+      "fields": [
+        {
+          "ref": "Part 3, 6.–7.",
+          "label": "Ethnicity (Select only one box) / Race (Select all applicable boxes)"
+        },
+        {
+          "ref": "Part 3, 8.–9.",
+          "label": "Height: Feet / Inches; Weight: Pounds"
+        },
+        {
+          "ref": "Part 3, 10.–11.",
+          "label": "Eye Color (Select only one box) / Hair Color (Select only one box)"
+        }
+      ]
+    },
+    {
+      "id": "statement",
+      "name": "Parts 4 and 5: Accommodations, applicant’s statement, contact information and signature",
+      "fields": [
+        {
+          "ref": "Part 4, 1.–1.c.",
+          "label": "Are you requesting an accommodation because of your disabilities and/or impairments?"
+        },
+        {
+          "ref": "Part 5, 1.a.–2.",
+          "label": "Applicant's Statement"
+        },
+        {
+          "ref": "Part 5, 3.–5.",
+          "label": "Applicant's Daytime Telephone Number / Applicant's Mobile Telephone Number (if any) / Applicant's Email Address (if any)"
+        },
+        {
+          "ref": "Part 5, 6.a.–6.b.",
+          "label": "Applicant's Signature (sign in ink) / Date of Signature (mm/dd/yyyy)"
+        }
+      ]
+    },
+    {
+      "id": "helpers",
+      "name": "Parts 6 to 8: Interpreter, preparer and additional information",
+      "fields": [
+        {
+          "ref": "Part 6",
+          "label": "Interpreter's Contact Information, Certification, and Signature"
+        },
+        {
+          "ref": "Part 7",
+          "label": "Contact Information, Declaration, and Signature of the Person Preparing this Application, if Other Than the Applicant"
+        },
+        {
+          "ref": "Part 8",
+          "label": "Additional Information"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Permanent Resident Card",
+    "Lawful Permanent Resident",
+    "Conditional Permanent Resident",
+    "Permanent Resident - In Commuter Status",
+    "Alien Registration Number (A-Number)",
+    "USCIS Online Account Number",
+    "Class of Admission",
+    "Port-of-Entry (POE)",
+    "Department of Homeland Security (DHS) error",
+    "Alien Registration Card",
+    "Form I-407, Abandonment by Alien of Status as Lawful Permanent Resident",
+    "Form I-797 Receipt Notice",
+    "Biometric Services Appointment"
+  ]
+}

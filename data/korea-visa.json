@@ -1,0 +1,307 @@
+{
+  "slug": "korea-visa",
+  "form": "Korea visa",
+  "issuer": "Ministry of Justice, Republic of Korea",
+  "formLanguage": "ko",
+  "officialUrl": "https://www.visa.go.kr/openPage.do?MENU_ID=10105&LANG_TYPE=EN",
+  "edition": "Form No. 17 of the Enforcement Rules of the Immigration Act (별지 제17호서식), amended 7 February 2022",
+  "lastChecked": "2026-10-26",
+  "summary": "The Visa Application Form (사증발급신청서) is the form you complete to apply for a South Korean visa at a Korean embassy or consulate. Every foreign national who needs a visa fills in their own form, in Korean or English, and signs it; a parent or legal guardian signs for a child under 17.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/korea-visa?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "applicant",
+      "name": "Section 1: Personal details",
+      "fields": [
+        {
+          "label": "여권용 사진 PHOTO (35㎜×45㎜)"
+        },
+        {
+          "ref": "1.1",
+          "label": "여권에 기재된 영문 성명 Full name in English (as shown in passport): 성 Family Name / 명 Given Names"
+        },
+        {
+          "ref": "1.2",
+          "label": "한자성명 漢字姓名"
+        },
+        {
+          "ref": "1.3",
+          "label": "성별 Sex"
+        },
+        {
+          "ref": "1.4",
+          "label": "생년월일 Date of Birth (yyyy/mm/dd)"
+        },
+        {
+          "ref": "1.5",
+          "label": "국적 Nationality"
+        },
+        {
+          "ref": "1.6",
+          "label": "출생국가 Country of Birth"
+        },
+        {
+          "ref": "1.7",
+          "label": "국가신분증번호 National Identity No."
+        },
+        {
+          "ref": "1.8",
+          "label": "이전에 한국에 출입국하였을 때 다른 성명을 사용했는지 여부 Has the applicant ever used any other names to enter or depart Korea?"
+        },
+        {
+          "ref": "1.9",
+          "label": "복수 국적 여부 Is the applicant a citizen of more than one country?"
+        }
+      ]
+    },
+    {
+      "id": "visa",
+      "name": "Section 2: The visa you apply for",
+      "fields": [
+        {
+          "ref": "2.1",
+          "label": "체류기간(장ㆍ단기) Period of Stay (Long/Short-term)"
+        },
+        {
+          "ref": "2.2",
+          "label": "체류자격 Status of Stay"
+        }
+      ]
+    },
+    {
+      "id": "passport",
+      "name": "Section 3: Passport",
+      "fields": [
+        {
+          "ref": "3.1",
+          "label": "여권종류 Passport Type"
+        },
+        {
+          "ref": "3.2",
+          "label": "여권번호 Passport No."
+        },
+        {
+          "ref": "3.3",
+          "label": "발급국가 Country of Passport"
+        },
+        {
+          "ref": "3.4",
+          "label": "발급지 Place of Issue"
+        },
+        {
+          "ref": "3.5",
+          "label": "발급일자 Date of Issue"
+        },
+        {
+          "ref": "3.6",
+          "label": "기간만료일 Date Of Expiry"
+        },
+        {
+          "ref": "3.7",
+          "label": "다른 여권 소지 여부 Does the applicant have any other valid passports?"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Section 4: Contact information",
+      "fields": [
+        {
+          "ref": "4.1",
+          "label": "본국 주소 Home Country Address of the applicant"
+        },
+        {
+          "ref": "4.2",
+          "label": "현 거주지 Current Residential Address"
+        },
+        {
+          "ref": "4.3",
+          "label": "휴대전화 Cell Phone No. 또는 일반전화 Telephone No."
+        },
+        {
+          "ref": "4.4",
+          "label": "전자우편 E-mail"
+        },
+        {
+          "ref": "4.5",
+          "label": "비상시 연락처 Emergency Contact Information"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Section 5: Marital status and family",
+      "fields": [
+        {
+          "ref": "5.1",
+          "label": "현재 혼인사항 Current Marital Status"
+        },
+        {
+          "ref": "5.2",
+          "label": "배우자 인적사항 Personal Information of the applicant’s Spouse"
+        },
+        {
+          "ref": "5.3",
+          "label": "자녀 유무 Does the applicant have children?"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Section 6: Education",
+      "fields": [
+        {
+          "ref": "6.1",
+          "label": "최종학력 What is the highest degree or level of education the applicant has completed?"
+        },
+        {
+          "ref": "6.2",
+          "label": "학교명 Name of School"
+        },
+        {
+          "ref": "6.3",
+          "label": "학교 소재지 Location of School (city/province/country)"
+        }
+      ]
+    },
+    {
+      "id": "employment",
+      "name": "Section 7: Employment",
+      "fields": [
+        {
+          "ref": "7.1",
+          "label": "직업 Current personal circumstances"
+        },
+        {
+          "ref": "7.2",
+          "label": "직업 상세정보 Employment Details"
+        }
+      ]
+    },
+    {
+      "id": "visit",
+      "name": "Section 8: Your visit",
+      "fields": [
+        {
+          "ref": "8.1",
+          "label": "입국목적 Purpose of Visit to Korea"
+        },
+        {
+          "ref": "8.2",
+          "label": "체류예정기간 Intended Period of Stay"
+        },
+        {
+          "ref": "8.3",
+          "label": "입국예정일 Intended Date of Entry"
+        },
+        {
+          "ref": "8.4",
+          "label": "체류예정지(호텔 포함) Address in Korea (including hotels)"
+        },
+        {
+          "ref": "8.5",
+          "label": "한국 내 연락처 Contact No. in Korea"
+        },
+        {
+          "ref": "8.6",
+          "label": "과거 5년간 한국을 방문한 경력 Has the applicant travelled to Korea in the last 5 years?"
+        },
+        {
+          "ref": "8.7",
+          "label": "한국 외에 과거 5년간 여행한 국가 Has the applicant travelled outside his/her country of residence, excluding to Korea, in the last 5 years?"
+        },
+        {
+          "ref": "8.8",
+          "label": "국내 체류 가족 유무 Does the applicant have any family member(s) staying in Korea?"
+        },
+        {
+          "ref": "8.9",
+          "label": "동반입국 가족 유무 Is the applicant travelling to Korea with any family member(s)?"
+        }
+      ]
+    },
+    {
+      "id": "invitation",
+      "name": "Section 9: Invitation",
+      "fields": [
+        {
+          "ref": "9.1",
+          "label": "초청인/초청회사 Is there anyone inviting the applicant for the visa?"
+        }
+      ]
+    },
+    {
+      "id": "funding",
+      "name": "Section 10: Funding",
+      "fields": [
+        {
+          "ref": "10.1",
+          "label": "방문경비(미국 달러 기준) Estimated travel costs (in US dollars)"
+        },
+        {
+          "ref": "10.2",
+          "label": "경비지급자 Who will pay for the applicant’s travel-related expenses?"
+        }
+      ]
+    },
+    {
+      "id": "sign",
+      "name": "Sections 11 and 12: Help with the form and declaration",
+      "fields": [
+        {
+          "ref": "11.1",
+          "label": "이 신청서를 작성하는데 다른 사람의 도움을 받았습니까? Did the applicant receive assistance in completing this form?"
+        },
+        {
+          "ref": "12",
+          "label": "신청일자 (년. 월. 일) DATE OF APPLICATION (yyyy/mm/dd)"
+        },
+        {
+          "ref": "12",
+          "label": "신청인 성명 (자필서명) Applicant Name / SIGNATURE OF APPLICANT"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "사증 VISA",
+    "체류자격 Status of Stay",
+    "단기체류 / 장기체류 Short-term / Long-term Stay",
+    "C 계열 사증 category C visa",
+    "한자성명 漢字姓名",
+    "국가신분증번호 National Identity No.",
+    "사업자등록번호 Business Registration No.",
+    "가족의 범위 Scope of family members",
+    "법정후견인 Legal Guardian",
+    "재외공관 Diplomatic Mission",
+    "대한민국 비자포털 Korea Visa Portal (www.visa.go.kr)",
+    "사증발급거부통지서 disapproval notice",
+    "공용란 FOR OFFICIAL USE ONLY",
+    "출입국관리법 Immigration Act"
+  ]
+}

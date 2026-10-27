@@ -1,0 +1,229 @@
+{
+  "slug": "aa4-8",
+  "form": "AA4/8",
+  "issuer": "Agenzia delle Entrate",
+  "formLanguage": "it",
+  "officialUrl": "https://www.agenziaentrate.gov.it/portale/codice-fiscale-e-tessera-sanitaria/modello-e-istruzioni",
+  "edition": "Provvedimento 24 giugno 2013 (PDF giugno 2025)",
+  "lastChecked": "2026-10-26",
+  "summary": "The AA4/8 is the Agenzia delle Entrate’s form to apply for an Italian tax code (codice fiscale), to report a change in your details, or to ask for a codice fiscale card or a replacement health card (Tessera Sanitaria). You fill it in if you need a codice fiscale and no other office assigns it to you, for example as an EU citizen moving to Italy, a non-resident student or worker, or someone abroad who has to sign a contract or accept an inheritance in Italy.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/aa4-8?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "requester",
+      "name": "Quadro A, Section I) Who is applying",
+      "fields": [
+        {
+          "ref": "Quadro A, Sezione I",
+          "label": "D RICHIESTA DIRETTA PER SE STESSO / T RICHIESTA PER SOGGETTO TERZO"
+        },
+        {
+          "ref": "Quadro A, Sezione I",
+          "label": "CODICE TIPOLOGIA RICHIEDENTE (solo per attribuzione codice fiscale)"
+        }
+      ]
+    },
+    {
+      "id": "request",
+      "name": "Quadro A, Section II) What you are asking for",
+      "fields": [
+        {
+          "ref": "Quadro A, Sezione II, 1",
+          "label": "ATTRIBUZIONE CODICE FISCALE"
+        },
+        {
+          "ref": "Quadro A, Sezione II, 1",
+          "label": "RICHIESTA TESSERINO CODICE FISCALE"
+        },
+        {
+          "ref": "Quadro A, Sezione II, 2",
+          "label": "VARIAZIONE DATI / CODICE FISCALE"
+        },
+        {
+          "ref": "Quadro A, Sezione II, 3",
+          "label": "COMUNICAZIONE DECESSO / CODICE FISCALE / DATA DECESSO"
+        },
+        {
+          "ref": "Quadro A, Sezione II, 4",
+          "label": "RICHIESTA CERTIFICATO DI CODICE FISCALE / CODICE FISCALE"
+        },
+        {
+          "ref": "Quadro A, Sezione II, 5",
+          "label": "RICHIESTA DUPLICATO TESSERINO/TESSERA SANITARIA / CODICE FISCALE"
+        },
+        {
+          "ref": "Quadro A, Sezione II, 5",
+          "label": "MOTIVAZIONE"
+        }
+      ]
+    },
+    {
+      "id": "personal",
+      "name": "Quadro B) Your personal details",
+      "fields": [
+        {
+          "ref": "Quadro B",
+          "label": "COGNOME"
+        },
+        {
+          "ref": "Quadro B",
+          "label": "NOME"
+        },
+        {
+          "ref": "Quadro B",
+          "label": "SESSO"
+        },
+        {
+          "ref": "Quadro B",
+          "label": "COMUNE (o Stato estero) DI NASCITA"
+        },
+        {
+          "ref": "Quadro B",
+          "label": "PROVINCIA"
+        },
+        {
+          "ref": "Quadro B",
+          "label": "DATA DI NASCITA"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "name": "Quadro C) Your address in Italy (residence or tax domicile)",
+      "fields": [
+        {
+          "ref": "Quadro C",
+          "label": "COMUNE / PROVINCIA / C.A.P."
+        },
+        {
+          "ref": "Quadro C",
+          "label": "TIPOLOGIA (via, piazza, ecc.)"
+        },
+        {
+          "ref": "Quadro C",
+          "label": "INDIRIZZO"
+        },
+        {
+          "ref": "Quadro C",
+          "label": "NUMERO CIVICO"
+        },
+        {
+          "ref": "Quadro C",
+          "label": "FRAZIONE/ALTRO"
+        }
+      ]
+    },
+    {
+      "id": "abroad",
+      "name": "Quadro D) Your address abroad",
+      "fields": [
+        {
+          "ref": "Quadro D",
+          "label": "STATO ESTERO"
+        },
+        {
+          "ref": "Quadro D",
+          "label": "STATO FEDERATO, PROVINCIA, CONTEA"
+        },
+        {
+          "ref": "Quadro D",
+          "label": "LOCALITÀ DI RESIDENZA"
+        },
+        {
+          "ref": "Quadro D",
+          "label": "CODICE POSTALE"
+        },
+        {
+          "ref": "Quadro D",
+          "label": "INDIRIZZO"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Quadro E and attachments",
+      "fields": [
+        {
+          "ref": "Quadro E",
+          "label": "Eventuali altri codici fiscali attribuiti / CODICE FISCALE"
+        },
+        {
+          "label": "ALLEGATI"
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "name": "Signature (Sottoscrizione)",
+      "fields": [
+        {
+          "label": "CODICE FISCALE RICHIEDENTE DIVERSO DA PERSONA FISICA"
+        },
+        {
+          "label": "CODICE FISCALE SOTTOSCRITTORE"
+        },
+        {
+          "label": "DATA / FIRMA"
+        }
+      ]
+    },
+    {
+      "id": "delegation",
+      "name": "Delegation (Delega): someone hands it in for you",
+      "fields": [
+        {
+          "label": "_l_ sottoscritt_ … delega …"
+        },
+        {
+          "label": "nato/a a … il … / CODICE FISCALE"
+        },
+        {
+          "label": "a presentare il modello per suo conto e a ritirare l’eventuale certificazione rilasciata dall’ufficio / DATA / FIRMA"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Codice fiscale",
+    "Certificato di attribuzione del codice fiscale",
+    "Tesserino del codice fiscale",
+    "Tessera Sanitaria",
+    "Servizio Sanitario Nazionale (SSN)",
+    "ASL",
+    "Residenza anagrafica",
+    "Domicilio fiscale",
+    "Ufficio territoriale dell’Agenzia delle Entrate",
+    "Posta elettronica certificata (PEC)",
+    "Rappresentanza diplomatico-consolare",
+    "Questura",
+    "Sportello Unico per l’Immigrazione",
+    "Delega",
+    "Stampatello",
+    "Omocodia"
+  ]
+}

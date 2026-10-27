@@ -1,0 +1,174 @@
+{
+  "slug": "ex-17",
+  "form": "EX-17",
+  "issuer": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+  "formLanguage": "es",
+  "officialUrl": "https://www.inclusion.gob.es/documents/d/migraciones/ex17-formulario-solicitud-tarjeta-de-identidad-de-extranjero-editable.pdf",
+  "edition": "EX-17 (LO 4/2000 y RD 1155/2024)",
+  "lastChecked": "2026-10-26",
+  "summary": "The EX-17 is the official form to apply for the Spanish foreigner identity card (TIE): the first card, a card after your permit is renewed, or a duplicate. You fill it in if you are not an EU citizen and Spain has given you a visa or a permit to stay for more than 6 months.",
+  "guide": {
+    "en": "https://otterfill.com/en/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh": "https://otterfill.com/zh/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "zh-Hant": "https://otterfill.com/zh-Hant/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "es": "https://otterfill.com/es/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fr": "https://otterfill.com/fr/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "de": "https://otterfill.com/de/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pt": "https://otterfill.com/pt/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "it": "https://otterfill.com/it/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "nl": "https://otterfill.com/nl/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "pl": "https://otterfill.com/pl/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ru": "https://otterfill.com/ru/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "uk": "https://otterfill.com/uk/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tr": "https://otterfill.com/tr/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ar": "https://otterfill.com/ar/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "fa": "https://otterfill.com/fa/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ur": "https://otterfill.com/ur/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "hi": "https://otterfill.com/hi/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "bn": "https://otterfill.com/bn/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ja": "https://otterfill.com/ja/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "ko": "https://otterfill.com/ko/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "id": "https://otterfill.com/id/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "vi": "https://otterfill.com/vi/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "th": "https://otterfill.com/th/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides",
+    "tl": "https://otterfill.com/tl/guides/ex-17?utm_source=github&utm_medium=referral&utm_campaign=form-guides"
+  },
+  "groups": [
+    {
+      "id": "person",
+      "name": "1) Your personal details",
+      "fields": [
+        {
+          "ref": "1",
+          "label": "PASAPORTE"
+        },
+        {
+          "ref": "1",
+          "label": "N.I.E."
+        },
+        {
+          "ref": "1",
+          "label": "1er Apellido"
+        },
+        {
+          "ref": "1",
+          "label": "2º Apellido"
+        },
+        {
+          "ref": "1",
+          "label": "Nombre"
+        },
+        {
+          "ref": "1",
+          "label": "Sexo (X / H / M)"
+        },
+        {
+          "ref": "1",
+          "label": "Fecha de nacimiento"
+        },
+        {
+          "ref": "1",
+          "label": "Lugar / País"
+        },
+        {
+          "ref": "1",
+          "label": "Nacionalidad"
+        },
+        {
+          "ref": "1",
+          "label": "Estado civil (S / C / V / D / Sp)"
+        },
+        {
+          "ref": "1",
+          "label": "Nombre del padre / Nombre de la madre"
+        },
+        {
+          "ref": "1",
+          "label": "Domicilio en España, Nº, Piso, Localidad, C.P., Provincia"
+        },
+        {
+          "ref": "1",
+          "label": "Teléfono móvil / E-mail"
+        },
+        {
+          "ref": "1",
+          "label": "Representante legal, en su caso / DNI/NIE/PAS / Título"
+        }
+      ]
+    },
+    {
+      "id": "representative",
+      "name": "2) The representative who files the application",
+      "fields": [
+        {
+          "ref": "2",
+          "label": "Nombre/Razón Social / DNI/NIE/PAS"
+        },
+        {
+          "ref": "2",
+          "label": "Domicilio en España, Nº, Piso, Localidad, C.P., Provincia, Teléfono móvil, E-mail"
+        },
+        {
+          "ref": "2",
+          "label": "Representante legal, en su caso / DNI/NIE/PAS / Título"
+        }
+      ]
+    },
+    {
+      "id": "notifications",
+      "name": "3) Address for notifications",
+      "fields": [
+        {
+          "ref": "3",
+          "label": "Nombre/Razón Social / DNI/NIE/PAS"
+        },
+        {
+          "ref": "3",
+          "label": "Domicilio en España, Nº, Piso, Localidad, C.P., Provincia, Teléfono móvil, E-mail"
+        },
+        {
+          "ref": "3",
+          "label": "CONSIENTO que las comunicaciones y notificaciones se realicen mediante puesta a disposición en la Dirección electrónica habilitada Única (Dehú)"
+        }
+      ]
+    },
+    {
+      "id": "request",
+      "name": "4) What you are asking for, and signature",
+      "fields": [
+        {
+          "label": "DIRIGIDA A / Código DIR3 / PROVINCIA"
+        },
+        {
+          "ref": "4.1",
+          "label": "TARJETA INICIAL"
+        },
+        {
+          "ref": "4.1",
+          "label": "RENOVACIÓN DE TARJETA"
+        },
+        {
+          "ref": "4.1",
+          "label": "DUPLICADO POR PÉRDIDA, SUSTRACCIÓN, DETERIORO O CAMBIO DE DATOS"
+        },
+        {
+          "label": "(lugar), a (día) de (mes) de (año) / FIRMA DEL SOLICITANTE (o representante legal, en su caso)"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    "Tarjeta de Identidad de Extranjero (TIE)",
+    "Número de Identidad de Extranjero (NIE)",
+    "Modelo 790, código 012",
+    "Cita previa",
+    "Toma de huellas",
+    "Unidad de Documentación de la Policía Nacional",
+    "Resolución de concesión",
+    "Certificado o volante de empadronamiento",
+    "Declaración de entrada",
+    "Dirección electrónica habilitada única (DEHú)",
+    "Cl@ve",
+    "Tarjeta de residencia de familiar de ciudadano de la Unión (EX-19)"
+  ]
+}
